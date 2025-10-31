@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boston.com - Boston news, sports, weather, entertainment</title>
+    <style>
+        body {
+            background-color: #c5cde6;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 11pt;
+        }
+        
+        .header-weather {
+            background-color: white;
+            padding: 5px 10px;
+            font-size: 9pt;
+            border-bottom: 1px solid #999;
+        }
+        
+        .logo-area {
+            background-color: white;
+            padding: 10px;
+        }
+        
+        .logo-area img {
+            display: block;
+        }
+        
+        .date-bar {
+            background-color: #000066;
+            color: white;
+            padding: 5px 10px;
+            font-size: 9pt;
+            font-weight: bold;
+            text-align: center;
+            letter-spacing: 2px;
+        }
+        
+        .main-container {
+            background-color: white;
+            margin: 0;
+        }
+        
+        .sidebar {
+            width: 120px;
+            vertical-align: top;
+            padding: 10px 5px;
+            background-color: white;
+            border-right: 2px solid #000066;
+        }
+        
+        .sidebar-section {
+            margin-bottom: 20px;
+        }
+        
+        .sidebar-heading {
+            color: #cc0000;
+            font-size: 9pt;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .sidebar a {
+            display: block;
+            color: #0000cc;
+            text-decoration: underline;
+            font-size: 9pt;
+            margin: 3px 0;
+        }
+        
+        .sidebar a:visited {
+            color: #660099;
+        }
+        
+        .content-area {
+            padding: 15px;
+            vertical-align: top;
+        }
+        
+        .article {
+            margin-bottom: 25px;
+            border-bottom: 1px solid #cccccc;
+            padding-bottom: 15px;
+        }
+        
+        .article-headline {
+            font-size: 14pt;
+            font-weight: bold;
+            color: #0000cc;
+            text-decoration: underline;
+            margin-bottom: 8px;
+        }
+        
+        .article-headline a {
+            color: #0000cc;
+            text-decoration: underline;
+        }
+        
+        .article-headline a:visited {
+            color: #660099;
+        }
+        
+        .article-description {
+            font-size: 10pt;
+            line-height: 1.4;
+            color: #000000;
+            margin-bottom: 5px;
+        }
+        
+        .article-meta {
+            font-size: 8pt;
+            color: #666666;
+            font-style: italic;
+        }
+        
+        .section-header {
+            background-color: #000066;
+            color: white;
+            padding: 5px 10px;
+            font-weight: bold;
+            font-size: 11pt;
+            margin-bottom: 15px;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-style: italic;
+            color: #666;
+        }
+        
+        .error {
+            background-color: #ffeeee;
+            border: 1px solid #cc0000;
+            padding: 15px;
+            margin: 20px;
+            color: #cc0000;
+        }
+        
+        .last-updated {
+            font-size: 8pt;
+            color: #666;
+            text-align: right;
+            padding: 10px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td class="header-weather">
+                <b>Boston.com</b> was last updated at <span id="update-time">loading...</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="logo-area">
+                <img src="https://i.imgur.com/YEWE5l7.gif" alt="Boston.com" border="0">
+            </td>
+        </tr>
+        <tr>
+            <td class="date-bar" id="current-date">
+                LOADING...
+            </td>
+        </tr>
+    </table>
+    
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="main-container">
+        <tr>
+            <td class="sidebar">
+                <div class="sidebar-section">
+                    <div class="sidebar-heading">NEWS</div>
+                    <a href="#">Local News</a>
+                    <a href="#">Politics</a>
+                    <a href="#">Business</a>
+                    <a href="#">Education</a>
+                    <a href="#">Crime</a>
+                    <a href="#">Weather</a>
+                </div>
+                
+                <div class="sidebar-section">
+                    <div class="sidebar-heading">SPORTS</div>
+                    <a href="#">Red Sox</a>
+                    <a href="#">Patriots</a>
+                    <a href="#">Celtics</a>
+                    <a href="#">Bruins</a>
+                    <a href="#">Revolution</a>
+                    <a href="#">Colleges</a>
+                </div>
+                
+                <div class="sidebar-section">
+                    <div class="sidebar-heading">FOOD</div>
+                    <a href="#">Restaurants</a>
+                    <a href="#">The Dish</a>
+                    <a href="#">Recipes</a>
+                    <a href="#">Dining Guides</a>
+                    <a href="#">Food News</a>
+                </div>
+                
+                <div class="sidebar-section">
+                    <div class="sidebar-heading">CULTURE</div>
+                    <a href="#">Arts & Entertainment</a>
+                    <a href="#">Events</a>
+                    <a href="#">Music</a>
+                    <a href="#">Movies</a>
+                    <a href="#">Television</a>
+                    <a href="#">Books</a>
+                </div>
+                
+                <div class="sidebar-section">
+                    <div class="sidebar-heading">TRAVEL</div>
+                    <a href="#">Scenic Six</a>
+                    <a href="#">New England</a>
+                    <a href="#">Day Trips</a>
+                    <a href="#">Hotels</a>
+                    <a href="#">Airlines</a>
+                </div>
+                
+                <div class="sidebar-section">
+                    <div class="sidebar-heading">MORE</div>
+                    <a href="#">Real Estate</a>
+                    <a href="#">Cars</a>
+                    <a href="#">Jobs</a>
+                    <a href="#">Love Letters</a>
+                    <a href="#">Newsletters</a>
+                    <a href="#">Podcasts</a>
+                </div>
+            </td>
+            
+            <td class="content-area">
+                <div class="section-header">LATEST NEWS FROM BOSTON.COM</div>
+                <div id="articles-container" class="loading">
+                    Loading articles from Boston.com...
+                </div>
+            </td>
+        </tr>
+    </table>
+    
+    <script>
+        // Set current date
+        const days = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
+        const months = ['JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE', 'JULY', 'AUGUST', 'SEPTEMBER', 'OCTOBER', 'NOVEMBER', 'DECEMBER'];
+        const now = new Date();
+        const dateStr = `${days[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
+        document.getElementById('current-date').textContent = dateStr;
+        
+        // Function to format date
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        }
+        
+        // Function to strip HTML tags from text
+        function stripHtml(html) {
+            const tmp = document.createElement('div');
+            tmp.innerHTML = html;
+            return tmp.textContent || tmp.innerText || '';
+        }
+        
+        // Load articles from the JSON file
+        async function loadArticles() {
+            try {
+                const response = await fetch('articles.json?' + new Date().getTime());
+                const data = await response.json();
+                
+                if (!data.articles || data.articles.length === 0) {
+                    throw new Error('No articles found');
+                }
+                
+                const container = document.getElementById('articles-container');
+                container.innerHTML = '';
+                
+                data.articles.forEach(article => {
+                    const articleDiv = document.createElement('div');
+                    articleDiv.className = 'article';
+                    
+                    const headline = document.createElement('div');
+                    headline.className = 'article-headline';
+                    const link = document.createElement('a');
+                    link.href = article.link;
+                    link.textContent = article.title;
+                    link.target = '_blank';
+                    headline.appendChild(link);
+                    
+                    const description = document.createElement('div');
+                    description.className = 'article-description';
+                    const descText = stripHtml(article.description || '');
+                    description.textContent = descText.substring(0, 300) + (descText.length > 300 ? '...' : '');
+                    
+                    const meta = document.createElement('div');
+                    meta.className = 'article-meta';
+                    meta.textContent = article.pubDate ? formatDate(article.pubDate) : '';
+                    
+                    articleDiv.appendChild(headline);
+                    articleDiv.appendChild(description);
+                    articleDiv.appendChild(meta);
+                    container.appendChild(articleDiv);
+                });
+                
+                // Update timestamp
+                if (data.lastUpdated) {
+                    const updateTime = new Date(data.lastUpdated);
+                    document.getElementById('update-time').textContent = 
+                        updateTime.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true });
+                }
+                
+            } catch (error) {
+                console.error('Error loading articles:', error);
+                const container = document.getElementById('articles-container');
+                container.innerHTML = '<div class="error">Unable to load articles. The RSS feed may not have been fetched yet. Please wait for the GitHub Action to run, or check back shortly.</div>';
+            }
+        }
+        
+        // Load articles on page load
+        loadArticles();
+        
+        // Reload articles every 5 minutes
+        setInterval(loadArticles, 5 * 60 * 1000);
+    </script>
+</body>
+</html>
