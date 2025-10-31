@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2025-10-31T16:20:46.009Z",
+  "lastUpdated": "2025-10-31T17:15:40.114Z",
   "articles": [
+    {
+      "title": "Meet the vampire who went viral during a visit to Salem",
+      "link": "https://www.boston.com/news/local-news/2025/10/31/viral-salem-vampire/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Matthew Pruno went viral after a fan’s Facebook post about his mesmerizing look took off — now the Long Island cosplayer is embracing his inner vampire.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/31/viral-salem-vampire/\">Meet the vampire who went viral during a visit to Salem</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 31 Oct 2025 12:37:11 -0400"
+    },
+    {
+      "title": "Boston history quiz: How much do you remember from the past 30 years?",
+      "link": "https://www.boston.com/community/quizzes/2025/10/31/boston-history-timeline-game/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>As Boston.com celebrates its 30th anniversary this year, see how well you remembered these major Boston events since 1995.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/10/31/boston-history-timeline-game/\">Boston history quiz: How much do you remember from the past 30 years?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 31 Oct 2025 12:10:02 -0400"
+    },
     {
       "title": "New on Netflix and more: Top streaming picks for November 2025",
       "link": "https://www.boston.com/culture/the-queue/2025/10/31/new-netflix-top-streaming-picks-november-2025/",
@@ -20,9 +32,9 @@
       "pubDate": "Fri, 31 Oct 2025 11:41:19 -0400"
     },
     {
-      "title": "Before election day, meet Boston&#8217;s City Council candidates",
+      "title": "Before Election Day, meet Boston&#8217;s City Council candidates",
       "link": "https://www.boston.com/news/politics/2025/10/31/before-election-day-meet-bostons-city-council-candidates/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The general election is on Tuesday, Nov. 4.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/31/before-election-day-meet-bostons-city-council-candidates/\">Before election day, meet Boston&#8217;s City Council candidates</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The general election is on Tuesday, Nov. 4.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/31/before-election-day-meet-bostons-city-council-candidates/\">Before Election Day, meet Boston&#8217;s City Council candidates</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 31 Oct 2025 11:33:17 -0400"
     },
     {
@@ -48,18 +60,6 @@
       "link": "https://www.boston.com/news/politics/2025/10/31/boston-city-council-district-6-race-ben-weber-and-steven-berry/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Incumbent Ben Weber is being challenged by Steven Berry in the District 6 race.</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/31/boston-city-council-district-6-race-ben-weber-and-steven-berry/\">Boston City Council District 6 race: Ben Weber and Steven Berry</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 31 Oct 2025 11:02:11 -0400"
-    },
-    {
-      "title": "Market Basket shopper says she found a widow spider in grapes",
-      "link": "https://www.boston.com/news/local-news/2025/10/31/market-basket-shopper-says-she-found-a-widow-spider-in-grapes/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The New Hampshire woman warned others to check their fruit before digging in.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/10/31/market-basket-shopper-says-she-found-a-widow-spider-in-grapes/\">Market Basket shopper says she found a widow spider in grapes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 31 Oct 2025 10:57:24 -0400"
-    },
-    {
-      "title": "Boston City Council District 5 race: Enrique Pepén and Winston Pierre",
-      "link": "https://www.boston.com/news/politics/2025/10/31/boston-city-council-district-5-race-enrique-pepen-and-winston-pierre/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Incumbent Enrique Pepén is being challenged by Winston Pierre in the District 5 race. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2025/10/31/boston-city-council-district-5-race-enrique-pepen-and-winston-pierre/\">Boston City Council District 5 race: Enrique Pepén and Winston Pierre</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 31 Oct 2025 10:41:31 -0400"
     }
   ]
 }
