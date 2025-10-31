@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boston.com — Article</title>
+    <style>
+        body { background-color: #c5cde6; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; font-size: 11pt; }
+        .header-weather { background-color: white; padding: 5px 10px; font-size: 9pt; border-bottom: 1px solid #999; }
+        .logo-area { background-color: white; padding: 10px; }
+        .logo-area img { display: block; }
+        .date-bar { background-color: #000066; color: white; padding: 5px 10px; font-size: 9pt; font-weight: bold; text-align: center; letter-spacing: 2px; }
+        .container { background-color: white; margin: 0; padding: 0 0 40px; }
+        .content { max-width: 860px; margin: 0 auto; padding: 20px 16px; }
+        .headline { font-size: 20pt; color: #0000cc; text-decoration: underline; margin-bottom: 8px; font-weight: bold; }
+        .meta { font-size: 9pt; color: #666; font-style: italic; margin-bottom: 16px; }
+        .dek { font-size: 11pt; line-height: 1.5; margin-bottom: 18px; }
+        .body { font-size: 11pt; line-height: 1.6; }
+        .btn { display: inline-block; margin-top: 16px; padding: 8px 12px; background: #000066; color: #fff; text-decoration: none; border-radius: 2px; font-weight: bold; }
+        .btn:visited { color: #fff; }
+        .back { font-size: 9pt; margin-top: 20px; display: inline-block; }
+        .last-updated { font-size: 8pt; color: #666; text-align: right; padding: 10px; font-style: italic; }
+        .logo { max-width: 360px; height: auto; }
+        .notice { background:#fff8cc; border:1px solid #d7c35b; padding:10px; font-size:9pt; margin-top:12px; }
+        .external { font-size: 9pt; }
+        .nav { background:#fff; border-top:1px solid #000066; border-bottom:1px solid #000066; }
+        .nav-inner { max-width: 860px; margin: 0 auto; padding: 8px 16px; display:flex; flex-wrap: wrap; gap:10px; }
+        .nav a { color:#0000cc; text-decoration: underline; font-size: 9pt; margin-right: 8px; }
+        .nav a:visited { color:#660099; }
+    </style>
+</head>
+<body>
+    <div class="header-weather"><b>Boston.com</b></div>
+    <div class="logo-area">
+        <a href="index.html"><img class="logo" src="https://i.imgur.com/YEWE5l7.gif" alt="Boston.com" border="0"></a>
+    </div>
+    <div class="date-bar" id="current-date">LOADING...</div>
+
+    <div class="nav">
+        <div class="nav-inner" id="top-nav"></div>
+    </div>
+
+    <div class="container">
+        <div class="content">
+            <div class="headline" id="headline">Loading...</div>
+            <div class="meta" id="meta"></div>
+            <div class="dek" id="dek"></div>
+            <div class="body" id="body">
+                <!-- Optional space for extended description; we only have RSS snippets, so we keep it retro-simple -->
+            </div>
+            <a class="btn" id="read-original" target="_blank" rel="noopener">Continue reading on Boston.com</a>
+            <div class="notice external" id="external-notice" style="display:none;">
+                This retro template displays RSS details. Full text, images, and media are available on the original Boston.com article.
+            </div>
+            <a class="back" href="index.html">&larr; Back to Latest</a>
+        </div>
+    </div>
+
+    <script>
+        // Header date
+        const days = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
+        const months = ['JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE', 'JULY', 'AUGUST', 'SEPTEMBER', 'OCTOBER', 'NOVEMBER', 'DECEMBER'];
+        const now = new Date();
+        const dateStr = `${days[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}, ${now.getFullYear()}`;
+        document.getElementById('current-date').textContent = dateStr;
+
+        // Build top nav (same set as sidebar)
+        const navList = [
+            ["Home", "https://www.boston.com/"],
+            ["News", "https://www.boston.com/category/news/"],
+            ["Sports", "https://www.boston.com/category/sports/"],
+            ["Weather", "https://www.boston.com/category/weather/"],
+            ["Real Estate", "https://www.boston.com/category/real-estate/"],
+            ["Food", "https://www.boston.com/category/food/"],
+            ["Love Letters", "https://www.boston.com/category/love-letters/"],
+            ["Culture", "https://www.boston.com/category/culture/"],
+            ["Things To Do", "https://www.boston.com/category/things-to-do/"],
+            ["Travel", "https://www.boston.com/category/travel/"],
+            ["Community", "https://www.boston.com/category/community/"],
+            ["Extra", "https://www.boston.com/category/extra/"],
+            ["Weddings", "https://www.boston.com/category/weddings/"],
+            ["Cars", "https://www.boston.com/category/cars/"],
+        ];
+        const topNav = document.getElementById('top-nav');
+        navList.forEach(([label, href]) => {
+            const a = document.createElement('a');
+            a.href = href;
+            a.target = '_blank';
+            a.textContent = label;
+            topNav.appendChild(a);
+        });
+
+        // Helpers
+        function stripHtml(html) {
+            const tmp = document.createElement('div');
+            tmp.innerHTML = html || '';
+            return tmp.textContent || tmp.innerText || '';
+        }
+        function qs(key) {
+            const params = new URLSearchParams(location.search);
+            return params.get(key);
+        }
+        function formatDate(dateStr) {
+            const d = new Date(dateStr);
+            if (isNaN(d.getTime())) return '';
+            return d.toLocaleString('en-US', {
+                month: 'short', day: 'numeric', year: 'numeric',
+                hour: 'numeric', minute: '2-digit'
+            });
+        }
+
+        // Load article by link from articles.json
+        async function loadArticle() {
+            const link = qs('link');
+            const headlineEl = document.getElementById('headline');
+            const metaEl = document.getElementById('meta');
+            const dekEl = document.getElementById('dek');
+            const readBtn = document.getElementById('read-original');
+            const notice = document.getElementById('external-notice');
+
+            if (!link) {
+                headlineEl.textContent = 'Article not found';
+                metaEl.textContent = '';
+                dekEl.textContent = 'Missing link parameter.';
+                readBtn.style.display = 'none';
+                return;
+            }
+
+            readBtn.href = link;
+
+            try {
+                const res = await fetch('articles.json?' + Date.now());
+                const data = await res.json();
+                const match = (data.articles || []).find(a => a.link === link);
+
+                if (match) {
+                    headlineEl.textContent = match.title || 'Untitled';
+                    metaEl.textContent = match.pubDate ? formatDate(match.pubDate) : '';
+                    const dekText = stripHtml(match.description || '');
+                    dekEl.textContent = dekText;
+                    notice.style.display = 'block';
+                } else {
+                    headlineEl.textContent = 'Opening original article…';
+                    metaEl.textContent = '';
+                    dekEl.innerHTML = 'We couldn’t find this article in the local cache. <a href="' + link + '" target="_blank" rel="noopener">Open on Boston.com</a>';
+                }
+            } catch (e) {
+                headlineEl.textContent = 'Article';
+                metaEl.textContent = '';
+                dekEl.innerHTML = 'Unable to load cached details. <a href="' + link + '" target="_blank" rel="noopener">Open on Boston.com</a>';
+            }
+        }
+
+        loadArticle();
+    </script>
+</body>
+</html>
