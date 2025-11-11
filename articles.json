@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-11-11T20:18:36.474Z",
+  "lastUpdated": "2025-11-11T21:15:13.903Z",
   "articles": [
+    {
+      "title": "Pay transparency is now law in Massachusetts. What does it mean for you?",
+      "link": "https://www.boston.com/news/job-doc/2025/11/11/massachusetts-pay-transparency-law-guide/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A new statewide rule makes salaries visible in job postings. Here’s a breakdown for workers and employers.</p>\n<p>The post <a href=\"https://www.boston.com/news/job-doc/2025/11/11/massachusetts-pay-transparency-law-guide/\">Pay transparency is now law in Massachusetts. What does it mean for you?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 11 Nov 2025 15:23:09 -0500"
+    },
     {
       "title": "Salem woman who ran ‘creepy creations’ shop to plead guilty in Harvard morgue scandal",
       "link": "https://www.boston.com/news/crime/2025/11/11/salem-woman-who-ran-creepy-creations-shop-to-plead-guilty-in-harvard-morgue-scandal/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/entertainment/2025/11/11/jon-stewart-daily-show-democrats-shutdown/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"This is a world class collapse by Democrats.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/entertainment/2025/11/11/jon-stewart-daily-show-democrats-shutdown/\">Here&#8217;s what Jon Stewart had to say about the Senate Democrats voting to end the shutdown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 11 Nov 2025 10:16:37 -0500"
-    },
-    {
-      "title": "Patrice Bergeron was asked about possible 2026 Hall of Fame induction",
-      "link": "https://www.boston.com/sports/morning-sports-update/2025/11/11/patrice-bergeron-was-asked-about-possible-2026-hall-of-fame-induction/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The former Bruins captain was humble in his response.</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2025/11/11/patrice-bergeron-was-asked-about-possible-2026-hall-of-fame-induction/\">Patrice Bergeron was asked about possible 2026 Hall of Fame induction</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 11 Nov 2025 09:35:44 -0500"
     }
   ]
 }
