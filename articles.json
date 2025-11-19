@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-11-19T01:17:59.739Z",
+  "lastUpdated": "2025-11-19T03:09:33.328Z",
   "articles": [
+    {
+      "title": "These are Boston&#8217;s first-ever Michelin Guide restaurants",
+      "link": "https://www.boston.com/food/food-news/2025/11/18/boston-michelin-guide/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>For the first time in Michelin history, Boston restaurants are now on the guide. </p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2025/11/18/boston-michelin-guide/\">These are Boston&#8217;s first-ever Michelin Guide restaurants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 18 Nov 2025 21:11:16 -0500"
+    },
     {
       "title": "Is the dealer recommending unnecessary maintenance?",
       "link": "https://www.boston.com/cars/how-to/2025/11/18/car-doctor-is-the-dealer-recommending-unnecessary-maintenance/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/food/food-news/2025/11/18/16c-restaurant-closing-december-2025/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Owner Kerri Lynch-Delaney said the Quincy Center restaurant will close in December.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2025/11/18/16c-restaurant-closing-december-2025/\">Quincy restaurant 16C to close after nearly a decade</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 18 Nov 2025 15:46:23 -0500"
-    },
-    {
-      "title": "Bentley professor missing on Maine island",
-      "link": "https://www.boston.com/news/local-news/2025/11/18/search-ongoing-for-missing-bentley-professor/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Wiley Davi has been missing since Saturday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/18/search-ongoing-for-missing-bentley-professor/\">Bentley professor missing on Maine island</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 18 Nov 2025 15:34:10 -0500"
     }
   ]
 }
