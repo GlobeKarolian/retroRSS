@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-11-20T13:28:18.492Z",
+  "lastUpdated": "2025-11-20T14:17:21.813Z",
   "articles": [
+    {
+      "title": "Victim identified in Yarmouth trench collapse",
+      "link": "https://www.boston.com/news/local-news/2025/11/20/victim-identified-in-yarmouth-trench-collapse/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Two other workers were injured.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/20/victim-identified-in-yarmouth-trench-collapse/\">Victim identified in Yarmouth trench collapse</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Thu, 20 Nov 2025 08:48:50 -0500"
+    },
     {
       "title": "Devin McCourty, Vince Wilfork share their top surprises with 2025 Patriots",
       "link": "https://www.boston.com/sports/new-england-patriots/2025/11/19/new-england-patriots-devin-mccourty-vince-wilfork-nfl-football/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-red-sox/2025/11/19/boston-red-sox-rumors-offseason-trade-triston-casas-mlb-alex-cora-baseball/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“We gotta get him healthy.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2025/11/19/boston-red-sox-rumors-offseason-trade-triston-casas-mlb-alex-cora-baseball/\">Will Red Sox move on from Triston Casas? Alex Cora responds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 19 Nov 2025 20:12:47 -0500"
-    },
-    {
-      "title": "Patriots injury updates: Could Joe Burrow end up playing against New England on Sunday?",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/11/19/new-england-patriots-cincinnati-bengals-joe-burrow-injury-report-update-practice-kayshon-boutte/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Bengals QB Joe Burrow was listed as a full participant during Wednesday's practice. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/11/19/new-england-patriots-cincinnati-bengals-joe-burrow-injury-report-update-practice-kayshon-boutte/\">Patriots injury updates: Could Joe Burrow end up playing against New England on Sunday?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 19 Nov 2025 18:16:30 -0500"
     }
   ]
 }
