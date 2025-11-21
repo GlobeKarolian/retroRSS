@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-11-21T03:08:18.175Z",
+  "lastUpdated": "2025-11-21T04:20:18.465Z",
   "articles": [
+    {
+      "title": "Mass. man reports being shot with pellet gun while golfing",
+      "link": "https://www.boston.com/news/local-news/2025/11/20/mass-man-reports-being-shot-with-pellet-gun-while-golfing/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The man was golfing at the Leo J. Martin Golf Course in Weston when he was hit in the side with a pellet from a gun.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/20/mass-man-reports-being-shot-with-pellet-gun-while-golfing/\">Mass. man reports being shot with pellet gun while golfing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Thu, 20 Nov 2025 22:05:46 -0500"
+    },
     {
       "title": "Cam Newton doubles down on ‘fool’s gold’ Patriots comment, says he’s a ‘Drake Maye fan’",
       "link": "https://www.boston.com/sports/new-england-patriots/2025/11/20/cam-newton-new-england-patriots-fools-gold-nfl-football-drake-maye-stephen-a-smith-espn/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/crime/2025/11/20/police-continue-search-for-gardner-man-accused-of-killing-wife-in-2023/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>More than two years ago, Aaron Pennington allegedly murdered his wife at home in Gardner and vanished. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2025/11/20/police-continue-search-for-gardner-man-accused-of-killing-wife-in-2023/\">Police continue search for Gardner man accused of killing wife in 2023</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 20 Nov 2025 16:32:30 -0500"
-    },
-    {
-      "title": "Smithfield football families stand by their kids amid antisemitism claims",
-      "link": "https://www.boston.com/news/local-news/2025/11/20/smithfield-football-families-stand-by-their-kids-amid-antisemitism-claims/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Parents argue that a recent presentation by Jewish organizations overstepped privacy boundaries.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/11/20/smithfield-football-families-stand-by-their-kids-amid-antisemitism-claims/\">Smithfield football families stand by their kids amid antisemitism claims</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 20 Nov 2025 16:30:04 -0500"
     }
   ]
 }
