@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-12-02T18:28:09.743Z",
+  "lastUpdated": "2025-12-02T19:17:07.774Z",
   "articles": [
+    {
+      "title": "Readers rank the best holiday movies of all time",
+      "link": "https://www.boston.com/community/readers-say/2025/12/02/readers-best-holiday-christmas-movies/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>From “Die Hard” to “It’s a Wonderful Life,” here are the top five Christmas classics — plus a few honorable mentions.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2025/12/02/readers-best-holiday-christmas-movies/\">Readers rank the best holiday movies of all time</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 02 Dec 2025 14:07:56 -0500"
+    },
     {
       "title": "Pedestrian killed in Gloucester crash",
       "link": "https://www.boston.com/news/local-news/2025/12/02/fatal-pedestrian-crash-in-gloucester/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/community/2025/12/02/globe-santa-giving-tuesday-2025/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“I never, ever forgot about Globe Santa.”</p>\n<p>The post <a href=\"https://www.boston.com/news/community/2025/12/02/globe-santa-giving-tuesday-2025/\">It’s Giving Tuesday. What makes people give?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 02 Dec 2025 11:03:39 -0500"
-    },
-    {
-      "title": "Mike Vrabel discussed Patriots&#8217; physicality, botched Giants field goal, and Stefon Diggs&#8217;s sense of humor",
-      "link": "https://www.boston.com/sports/new-england-patriots/2025/12/02/mike-vrabel-giants-field-goal-stefon-diggs-movember-mustache/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Vrabel also joked about when he might shave his \"Movember\" mustache.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/02/mike-vrabel-giants-field-goal-stefon-diggs-movember-mustache/\">Mike Vrabel discussed Patriots&#8217; physicality, botched Giants field goal, and Stefon Diggs&#8217;s sense of humor</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 02 Dec 2025 10:53:03 -0500"
     }
   ]
 }
