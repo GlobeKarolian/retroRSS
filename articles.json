@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-12-18T09:23:57.843Z",
+  "lastUpdated": "2025-12-18T10:20:14.950Z",
   "articles": [
+    {
+      "title": "Giveaway: Enter to win a holiday gift bundle from B-Side",
+      "link": "https://www.boston.com/community/things-to-do/2025/12/18/bside-holiday-bundle-2025/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The winner will be selected Dec. 22. </p>\n<p>The post <a href=\"https://www.boston.com/community/things-to-do/2025/12/18/bside-holiday-bundle-2025/\">Giveaway: Enter to win a holiday gift bundle from B-Side</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Thu, 18 Dec 2025 05:00:00 -0500"
+    },
     {
       "title": "American flags vandalized at South Boston memorials, sparking response from officials",
       "link": "https://www.boston.com/news/crime/2025/12/17/american-flags-vandalized-at-south-boston-memorials-sparking-response-from-officials/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-bruins/2025/12/17/valdislav-kolyachonok-boston-bruins-nhl-hockey-marco-sturm/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“Whatever they tell me to do, I can do it.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2025/12/17/valdislav-kolyachonok-boston-bruins-nhl-hockey-marco-sturm/\">Vladislav Kolyachonok looking to find a regular home on Bruins’ blue line</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 17 Dec 2025 16:34:36 -0500"
-    },
-    {
-      "title": "Tell us: Have you seen the MBTA’s holiday trains?",
-      "link": "https://www.boston.com/community/tell-us/2025/12/17/mbta-holiday-trains-sighting-2025/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>This holiday season, one six-car Orange Line and two Green Line cars are dressed up for the holidays.</p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2025/12/17/mbta-holiday-trains-sighting-2025/\">Tell us: Have you seen the MBTA’s holiday trains?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 17 Dec 2025 16:19:30 -0500"
     }
   ]
 }
