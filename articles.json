@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-12-19T14:18:39.845Z",
+  "lastUpdated": "2025-12-19T15:19:40.980Z",
   "articles": [
+    {
+      "title": "MGH study links cannabis commercialization and teen psychiatric emergencies",
+      "link": "https://www.boston.com/news/health/2025/12/19/mgh-study-links-cannabis-commercialization-and-teen-psychiatric-emergencies/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>But the Cannabis Control Commission says the report lacks a causal link between commercialization and the uptick in marijuana-related youth psychosis. </p>\n<p>The post <a href=\"https://www.boston.com/news/health/2025/12/19/mgh-study-links-cannabis-commercialization-and-teen-psychiatric-emergencies/\">MGH study links cannabis commercialization and teen psychiatric emergencies</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 19 Dec 2025 09:55:46 -0500"
+    },
     {
       "title": "2 New England restaurants are among the most festive in America, according to Time Out",
       "link": "https://www.boston.com/travel/travel/2025/12/19/new-england-restaurants-most-festive-in-america-time-out/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/community/tell-us/2025/12/18/disney-world-dynamic-pricing/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“It’s not dynamic pricing as much as it is dynamic ratcheting.\" </p>\n<p>The post <a href=\"https://www.boston.com/community/tell-us/2025/12/18/disney-world-dynamic-pricing/\">Disney World considers dynamic pricing that could drive ticket prices higher</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 18 Dec 2025 16:46:49 -0500"
-    },
-    {
-      "title": "Massachusetts Supreme Judicial Court to take up White Stadium case",
-      "link": "https://www.boston.com/news/local-news/2025/12/18/white-stadium-case-sjc/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A judge ruled in favor of the city's White Stadium plan earlier this year, but opponents appealed the decision. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/18/white-stadium-case-sjc/\">Massachusetts Supreme Judicial Court to take up White Stadium case</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 18 Dec 2025 15:28:03 -0500"
     }
   ]
 }
