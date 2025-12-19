@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-12-19T11:15:54.168Z",
+  "lastUpdated": "2025-12-19T12:36:14.746Z",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A romantic restaurant, World Cup tickets, and some Patriots-adjacent baked goods are all part of this week’s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2025/12/19/greater-boston-news-quiz-brian-walshe-world-cup/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 19 Dec 2025 07:15:59 -0500"
+    },
     {
       "title": "Marco Sturm: Bruins gave Oilers ‘too much respect’ out on TD Garden ice",
       "link": "https://www.boston.com/sports/boston-bruins/2025/12/18/marco-sturm-boston-bruins-edmonton-oilers-connor-mcdavid-nhl-hockey/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2025/12/18/drake-maye-is-excited-by-his-next-prime-time-opportunity/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p> \"That's what we're trying to play for many years down the road. Trying to be the team that people want to see at night, and people want to see when the only game on is us.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2025/12/18/drake-maye-is-excited-by-his-next-prime-time-opportunity/\">Drake Maye is excited by his next prime time opportunity</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 18 Dec 2025 14:24:36 -0500"
-    },
-    {
-      "title": "5-year-old student killed in school bus crash in southern Maine",
-      "link": "https://www.boston.com/news/local-news/2025/12/18/5-year-old-student-killed-in-school-bus-crash-in-southern-maine/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The kindergarten student was pronounced dead at the scene on Tuesday. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/18/5-year-old-student-killed-in-school-bus-crash-in-southern-maine/\">5-year-old student killed in school bus crash in southern Maine</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 18 Dec 2025 13:43:31 -0500"
     }
   ]
 }
