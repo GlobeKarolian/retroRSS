@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-12-23T14:18:08.314Z",
+  "lastUpdated": "2025-12-23T15:18:45.122Z",
   "articles": [
+    {
+      "title": "‘The Polar Express’ at 40",
+      "link": "https://www.boston.com/culture/books/2025/12/23/the-polar-express-at-40/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>North Shore’s Chris Van Allsburg talks North Pole magic, Tom Hanks, RISD — and how a Boston editor convinced him to become a children’s book author.</p>\n<p>The post <a href=\"https://www.boston.com/culture/books/2025/12/23/the-polar-express-at-40/\">‘The Polar Express’ at 40</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 23 Dec 2025 10:13:35 -0500"
+    },
     {
       "title": "The challenges and joys of being a Christmas tree farmer in Massachusetts",
       "link": "https://www.boston.com/culture/local-news/2025/12/23/the-challenges-and-joys-of-being-a-christmas-tree-farmer-in-massachusetts/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/health/2025/12/22/live-in-personal-care-attendants-exempt-state-federal-income-taxes/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The move is projected to save about 18,000 health care professionals $5,000 or more per year.</p>\n<p>The post <a href=\"https://www.boston.com/news/health/2025/12/22/live-in-personal-care-attendants-exempt-state-federal-income-taxes/\">Live-in personal care attendants now exempt from state and federal income taxes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 22 Dec 2025 15:09:05 -0500"
-    },
-    {
-      "title": "Barry Manilow to have surgery for early-stage lung cancer and postpones January concerts",
-      "link": "https://www.boston.com/culture/entertainment/2025/12/22/barry-manilow-to-have-surgery-for-early-stage-lung-cancer-and-postpones-january-concerts/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Manilow, 82, said doctors found the cancer after he had an extended bout of bronchitis — six weeks, then a relapse of another five weeks.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2025/12/22/barry-manilow-to-have-surgery-for-early-stage-lung-cancer-and-postpones-january-concerts/\">Barry Manilow to have surgery for early-stage lung cancer and postpones January concerts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 22 Dec 2025 14:22:00 -0500"
     }
   ]
 }
