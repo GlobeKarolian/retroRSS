@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2025-12-24T21:16:00.416Z",
+  "lastUpdated": "2025-12-24T22:17:17.049Z",
   "articles": [
+    {
+      "title": "Boston Logan Airport adds free classic arcade games for holiday travelers",
+      "link": "https://www.boston.com/news/local-news/2025/12/24/boston-logan-airport-arcade-games/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>From Frogger to Galaga, holiday travelers can relive the '80s and '90s without spending a cent.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/boston-logan-airport-arcade-games/\">Boston Logan Airport adds free classic arcade games for holiday travelers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 24 Dec 2025 16:38:35 -0500"
+    },
     {
       "title": "Boston.com readers push back against 13% property tax increase",
       "link": "https://www.boston.com/community/readers-say/2025/12/24/readers-against-tax-increase/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2025/12/24/north-andover-officer-shot-by-colleague-released-from-jail-2/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The injuries Kelsey Fitzsimmons suffered during the incident have now healed enough that she can use an alcohol breath test safely.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/north-andover-officer-shot-by-colleague-released-from-jail-2/\">North Andover officer shot by colleague released from jail</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 24 Dec 2025 10:59:09 -0500"
-    },
-    {
-      "title": "2 dead in multi-vehicle crash in Watertown",
-      "link": "https://www.boston.com/news/local-news/2025/12/24/2-dead-in-multi-vehicle-crash-in-watertown/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>An investigation into the crash remains ongoing by the Watertown Police Department and Massachusetts State Police.  </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2025/12/24/2-dead-in-multi-vehicle-crash-in-watertown/\">2 dead in multi-vehicle crash in Watertown</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 24 Dec 2025 10:28:02 -0500"
     }
   ]
 }
