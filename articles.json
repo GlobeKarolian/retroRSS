@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-02T20:19:23.457Z",
+  "lastUpdated": "2026-01-02T21:13:43.984Z",
   "articles": [
+    {
+      "title": "MBTA won’t be running commuter rail to or from North Station most weekends through April",
+      "link": "https://www.boston.com/news/transportation/2026/01/02/mbta-wont-be-running-commuter-rail-to-or-from-north-station-most-weekends-through-april/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The diversion allows for necessary signal improvement work just outside North Station.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/01/02/mbta-wont-be-running-commuter-rail-to-or-from-north-station-most-weekends-through-april/\">MBTA won’t be running commuter rail to or from North Station most weekends through April</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 02 Jan 2026 15:35:35 -0500"
+    },
     {
       "title": "&#8216;It looks good&#8217;: Patriots&#8217; Will Campbell, Milton Williams trending in right direction for Week 18",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/01/02/patriots-will-campbell-milton-williams-injury-update/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/01/02/man-hospitalized-after-accidentally-shooting-himself-in-halifax/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A call came in for the accidental shooting just after 2:30 a.m. on New Year's Day. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/02/man-hospitalized-after-accidentally-shooting-himself-in-halifax/\">Man hospitalized after accidentally shooting himself in Halifax</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 02 Jan 2026 10:02:41 -0500"
-    },
-    {
-      "title": "Here are the snow totals for the New Year&#8217;s Eve storm",
-      "link": "https://www.boston.com/weather/weather/2026/01/02/here-are-the-snow-totals-for-the-new-years-eve-storm/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Most towns received less than 5 inches during the snowfall that started the new year.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/01/02/here-are-the-snow-totals-for-the-new-years-eve-storm/\">Here are the snow totals for the New Year&#8217;s Eve storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 02 Jan 2026 09:27:09 -0500"
     }
   ]
 }
