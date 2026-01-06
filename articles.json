@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-06T17:20:51.286Z",
+  "lastUpdated": "2026-01-06T18:27:49.097Z",
   "articles": [
+    {
+      "title": "Here&#8217;s why Afar says &#8216;we&#8217;re flocking to Boston in 2026&#8217;",
+      "link": "https://www.boston.com/travel/travel/2026/01/06/afar-magazine-says-were-flocking-to-boston-in-2026/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Boston is in the spotlight this year, says the publication.</p>\n<p>The post <a href=\"https://www.boston.com/travel/travel/2026/01/06/afar-magazine-says-were-flocking-to-boston-in-2026/\">Here&#8217;s why Afar says &#8216;we&#8217;re flocking to Boston in 2026&#8217;</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 06 Jan 2026 13:21:02 -0500"
+    },
     {
       "title": "Paul Pierce sounds off on the &#8216;lack of respect&#8217; Jaylen Brown is getting in award conversations",
       "link": "https://www.boston.com/sports/boston-celtics/2026/01/06/jaylen-brown-player-of-the-month-paul-pierce-comments/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/01/05/jim-harbaugh-los-angeles-chargers-new-england-patriots-mike-vrabel/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"Tough, gritty, physical, smart, fast. They kind of like to hit like he liked to hit.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/05/jim-harbaugh-los-angeles-chargers-new-england-patriots-mike-vrabel/\">Chargers coach Jim Harbaugh says 2025 Patriots team reminds him of this player</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 05 Jan 2026 21:46:56 -0500"
-    },
-    {
-      "title": "Boston police officer on paid leave after domestic violence charge",
-      "link": "https://www.boston.com/news/local-news/2026/01/05/boston-police-officer-on-paid-leave-after-domestic-violence-charge/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Ricardo Alexandre was placed on paid administrative leave after his arrest, a Boston police spokesperson confirmed. He pleaded not guilty in court.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/05/boston-police-officer-on-paid-leave-after-domestic-violence-charge/\">Boston police officer on paid leave after domestic violence charge</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 05 Jan 2026 21:28:10 -0500"
     }
   ]
 }
