@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-11T01:42:01.338Z",
+  "lastUpdated": "2026-01-11T03:47:16.801Z",
   "articles": [
+    {
+      "title": "Bruins make history as Pavel Zacha, Marat Khusnutdinov both score hat tricks",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/01/10/boston-bruins-nhl-hockey-hat-tricks-pavel-zacha-marat-khusnutdinov/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“We had a good day. They had a really bad day.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/01/10/boston-bruins-nhl-hockey-hat-tricks-pavel-zacha-marat-khusnutdinov/\">Bruins make history as Pavel Zacha, Marat Khusnutdinov both score hat tricks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 10 Jan 2026 20:34:17 -0500"
+    },
     {
       "title": "Luke Kornet explains why he left Celtics for Spurs",
       "link": "https://www.boston.com/sports/boston-celtics/2026/01/10/luke-kornet-celtics-spurs-free-agency-decision-comments/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/01/10/grocery-chain-study-ranks-market-basket-no-2-in-the-nation/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>This study found that U.S. consumers prioritize saving money on groceries more than their counterparts in other developed countries.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/10/grocery-chain-study-ranks-market-basket-no-2-in-the-nation/\">Grocery chain study ranks Market Basket No. 2 in the nation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 10 Jan 2026 10:47:22 -0500"
-    },
-    {
-      "title": "Mass. girl recovering from rare, serious illness linked to flu",
-      "link": "https://www.boston.com/news/local-news/2026/01/10/mass-girl-recovering-from-rare-serious-illness-linked-to-flu/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Acute necrotizing encephalopathy is a rare but dangerous flu complication that can cause brain damage or even death.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/10/mass-girl-recovering-from-rare-serious-illness-linked-to-flu/\">Mass. girl recovering from rare, serious illness linked to flu</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 10 Jan 2026 10:11:09 -0500"
     }
   ]
 }
