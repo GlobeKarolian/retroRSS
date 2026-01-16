@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-16T11:17:22.187Z",
+  "lastUpdated": "2026-01-16T12:38:24.008Z",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/01/16/take-the-greater-boston-news-quiz-jan-16-2026/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A viral accent, a masked Papi, and some Jimmy Fallon tomfoolery are all part of this week’s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/01/16/take-the-greater-boston-news-quiz-jan-16-2026/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 16 Jan 2026 06:34:37 -0500"
+    },
     {
       "title": "Woman&#8217;s body pulled from water in Newbury, DA says",
       "link": "https://www.boston.com/news/local-news/2026/01/15/womans-body-pulled-from-water-in-newbury-da-says/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/community/readers-say/2026/01/15/readers-judge-damon-affleck-fallon-massachusetts-town-pronunciations/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A majority of respondents said their hometown passed the test — but Quincy (and a few other classics) sparked loud debate.</p>\n<p>The post <a href=\"https://www.boston.com/community/readers-say/2026/01/15/readers-judge-damon-affleck-fallon-massachusetts-town-pronunciations/\">Readers judge Matt Damon, Ben Affleck, and Jimmy Fallon’s Mass. town pronunciations</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 15 Jan 2026 17:21:55 -0500"
-    },
-    {
-      "title": "What Josh McDaniels said about coaching against former Patriots staffers  and his younger brother",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/15/josh-mcdaniels-patriots-texans-comments-quotes/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Many of the Texans coaches have connections to either the Patriots or McDaniels.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/15/josh-mcdaniels-patriots-texans-comments-quotes/\">What Josh McDaniels said about coaching against former Patriots staffers  and his younger brother</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 15 Jan 2026 17:09:29 -0500"
     }
   ]
 }
