@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-17T11:14:42.334Z",
+  "lastUpdated": "2026-01-17T12:34:29.893Z",
   "articles": [
+    {
+      "title": "Watch: Jaylen Brown reacts to having his high school basketball number retired",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/01/17/jaylen-brown-celtics-wheeler-high-school-number-retired/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Brown returned to Wheeler High School in Marietta, Georgia, for the ceremony on Friday.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/17/jaylen-brown-celtics-wheeler-high-school-number-retired/\">Watch: Jaylen Brown reacts to having his high school basketball number retired</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 17 Jan 2026 07:13:53 -0500"
+    },
     {
       "title": "Hawks&#8217; Kristaps Porzingis (left Achilles tendinitis) ruled out vs. Celtics",
       "link": "https://www.boston.com/sports/boston-celtics/2026/01/16/celtics-hawks-kristaps-porzingis-injury/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/travel/skiing/2026/01/16/new-england-ski-guide/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Plan your next ski day with this guide.</p>\n<p>The post <a href=\"https://www.boston.com/travel/skiing/2026/01/16/new-england-ski-guide/\">Your New England ski guide for the 2026 season</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 16 Jan 2026 14:49:41 -0500"
-    },
-    {
-      "title": "Harvard Club of Boston to pay $2.4 million for defrauding pandemic aid program, prosecutors say",
-      "link": "https://www.boston.com/news/business/2026/01/16/harvard-club-of-boston-to-pay-fine-covid-loan-fraud/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The club, which is not formally affiliated with Harvard University, applied for and received a loan for which it was ineligible. </p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/01/16/harvard-club-of-boston-to-pay-fine-covid-loan-fraud/\">Harvard Club of Boston to pay $2.4 million for defrauding pandemic aid program, prosecutors say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 16 Jan 2026 14:47:35 -0500"
     }
   ]
 }
