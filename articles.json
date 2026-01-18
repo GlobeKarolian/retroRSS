@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-18T15:16:48.266Z",
+  "lastUpdated": "2026-01-18T16:20:49.369Z",
   "articles": [
+    {
+      "title": "Former Boston police superintendent sues department, says he was demoted for uncovering fraud",
+      "link": "https://www.boston.com/news/local-news/2026/01/18/former-boston-police-superintendent-sues-department-says-he-was-demoted-for-uncovering-fraud/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The police department’s deputy superintendent allegedly uncovered hundreds of department-wide paid detail fraud violations.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/18/former-boston-police-superintendent-sues-department-says-he-was-demoted-for-uncovering-fraud/\">Former Boston police superintendent sues department, says he was demoted for uncovering fraud</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sun, 18 Jan 2026 09:48:34 -0500"
+    },
     {
       "title": "‘SNL’ recap: Best moments from Finn Wolfhard hosting ‘Saturday Night Live’",
       "link": "https://www.boston.com/culture/entertainment/2026/01/18/snl-recap-finn-wolfhard/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/crime/2026/01/17/mass-man-sentenced-to-10-years-in-state-prison-for-dui-wrong-way-crash/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Cary Guy of Dighton pleaded no contest to charges of driving the wrong way on I-195 in East Providence while drunk, seriously injuring four people.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/01/17/mass-man-sentenced-to-10-years-in-state-prison-for-dui-wrong-way-crash/\">Mass. man sentenced to 10 years in state prison for DUI wrong-way crash</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 17 Jan 2026 08:25:19 -0500"
-    },
-    {
-      "title": "Dump truck plunges off Boston overpass after colliding with car",
-      "link": "https://www.boston.com/news/local-news/2026/01/17/dump-truck-plunges-off-boston-overpass-after-colliding-with-car/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Both drivers were hospitalized with non-life-threatening injuries and are expected to survive.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/17/dump-truck-plunges-off-boston-overpass-after-colliding-with-car/\">Dump truck plunges off Boston overpass after colliding with car</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 17 Jan 2026 07:42:54 -0500"
     }
   ]
 }
