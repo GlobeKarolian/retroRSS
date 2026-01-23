@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-23T11:18:24.158Z",
+  "lastUpdated": "2026-01-23T12:40:46.507Z",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/01/23/greater-boston-news-quiz-jan-23-2026-ann-michael-dropkick-murphys-phantom-gourmet/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Ann Michael’s fashion, a Dropkick Murphys update, and Phantom Gourmet’s Facebook prank are all part of this week’s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/01/23/greater-boston-news-quiz-jan-23-2026-ann-michael-dropkick-murphys-phantom-gourmet/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 23 Jan 2026 06:48:04 -0500"
+    },
     {
       "title": "In State of the Commonwealth address, Governor Healey spotlights affordability",
       "link": "https://www.boston.com/news/politics/2026/01/22/in-state-of-the-commonwealth-address-governor-healey-spotlights-affordability/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/01/22/wu-declares-cold-emergency-ahead-of-frigid-weekend-temperatures/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The cold emergency runs from Friday through Sunday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/22/wu-declares-cold-emergency-ahead-of-frigid-weekend-temperatures/\">Wu declares cold emergency ahead of frigid weekend temperatures</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 22 Jan 2026 18:43:55 -0500"
-    },
-    {
-      "title": "6 maps predicting snowfall totals from the Sunday-Monday storm",
-      "link": "https://www.boston.com/weather/weather/2026/01/22/boston-ma-snow-maps-sunday-monday-jan-25-26-2026/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The first snow maps for the late weekend storm started posting Thursday afternoon.</p>\n<p>The post <a href=\"https://www.boston.com/weather/weather/2026/01/22/boston-ma-snow-maps-sunday-monday-jan-25-26-2026/\">6 maps predicting snowfall totals from the Sunday-Monday storm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 22 Jan 2026 16:23:09 -0500"
     }
   ]
 }
