@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-24T13:28:39.836Z",
+  "lastUpdated": "2026-01-24T14:16:56.102Z",
   "articles": [
+    {
+      "title": "Car crashes into tree in Brookline, injured driver found nearby",
+      "link": "https://www.boston.com/news/local-news/2026/01/24/car-crashes-into-tree-in-brookline-injured-driver-found-nearby/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>An investigation is underway after a man allegedly fled after crashing a car into a tree on Aspinwall Avenue early Friday.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/24/car-crashes-into-tree-in-brookline-injured-driver-found-nearby/\">Car crashes into tree in Brookline, injured driver found nearby</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 24 Jan 2026 08:41:04 -0500"
+    },
     {
       "title": "Law firm says BU failed to protect student who reported Allston car wash workers",
       "link": "https://www.boston.com/news/local-news/2026/01/24/law-firm-says-bu-failed-to-protect-student-who-reported-allston-car-wash-workers/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/01/23/patriots-injury-report-afc-championship-game-harold-landry-mack-hollins-carlton-davis/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The Patriots might only be down one starter for Sunday's AFC title game. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/23/patriots-injury-report-afc-championship-game-harold-landry-mack-hollins-carlton-davis/\">Patriots will be down key defensive starter for AFC Championship; Mack Hollins, Carlton Davis questionable</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 23 Jan 2026 15:04:20 -0500"
-    },
-    {
-      "title": "Providence man dies after assault by group of 11- and 12-year-olds",
-      "link": "https://www.boston.com/news/crime/2026/01/23/providence-man-dies-after-assault-by-group-of-11-and-12-year-olds/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Four juveniles now face charges in connection with the Jan. 19 attack that killed Romy Alfonso, 51.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/01/23/providence-man-dies-after-assault-by-group-of-11-and-12-year-olds/\">Providence man dies after assault by group of 11- and 12-year-olds</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 23 Jan 2026 15:02:39 -0500"
     }
   ]
 }
