@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-30T11:25:18.599Z",
+  "lastUpdated": "2026-01-30T12:49:02.113Z",
   "articles": [
+    {
+      "title": "Did you follow the local news this week? Take our Greater Boston news quiz.",
+      "link": "https://www.boston.com/community/quizzes/2026/01/30/greater-boston-news-quiz-jan-30-2026-snowstorm-patriots-roxbury/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A sizable storm, plucky Patriots, and a Roxbury real estate row are all part of this week’s news quiz.</p>\n<p>The post <a href=\"https://www.boston.com/community/quizzes/2026/01/30/greater-boston-news-quiz-jan-30-2026-snowstorm-patriots-roxbury/\">Did you follow the local news this week? Take our Greater Boston news quiz.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 30 Jan 2026 06:51:34 -0500"
+    },
     {
       "title": "Patriots will have a ‘road warrior’ for Super Bowl LX in defensive coordinator Terrell Williams",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/01/29/new-england-patriots-nfl-football-terrell-williams-super-bowl-lx-cancer-mike-vrabel/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/crime/2026/01/29/former-boston-childrens-anesthesiologist-gets-22-years-for-child-exploitation-offenses/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p> Christopher Sheerer, 37, was charged with multiple child pornography and exploitation charges. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/01/29/former-boston-childrens-anesthesiologist-gets-22-years-for-child-exploitation-offenses/\">Former Boston Children&#8217;s anesthesiologist gets 22 years for child exploitation offenses</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 29 Jan 2026 19:10:19 -0500"
-    },
-    {
-      "title": "Mike Vrabel reacts to Bill Belichick’s Hall-of-Fame snub",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/01/29/mike-vrabel-bill-belichick-new-england-patriots-pro-football-hall-of-fame/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I'm sure that Bill will get into Canton.”</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/29/mike-vrabel-bill-belichick-new-england-patriots-pro-football-hall-of-fame/\">Mike Vrabel reacts to Bill Belichick’s Hall-of-Fame snub</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 29 Jan 2026 18:54:58 -0500"
     }
   ]
 }
