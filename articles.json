@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-30T14:33:16.512Z",
+  "lastUpdated": "2026-01-30T15:30:40.692Z",
   "articles": [
+    {
+      "title": "Are Greater Boston restaurants closed during the &#8216;National Shutdown&#8217; Friday?",
+      "link": "https://www.boston.com/food/restaurants/2026/01/30/boston-restaurants-closed-national-shutdown/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>See what Greater Boston restaurants had to say amid the call to shut down businesses in protest of ICE. </p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/01/30/boston-restaurants-closed-national-shutdown/\">Are Greater Boston restaurants closed during the &#8216;National Shutdown&#8217; Friday?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 30 Jan 2026 10:24:51 -0500"
+    },
     {
       "title": "6 maps predicting snowfall totals from Sunday&#8217;s coastal winter storm",
       "link": "https://www.boston.com/weather/weather/2026/01/30/boston-ma-snow-maps-sunday-feb-1-2026/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/01/29/tom-brady-bill-belichick-pro-football-hall-of-fame-nfl-football-rob-parker/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"Tom Brady is best described as Lance Armstrong without the bicycle.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/01/29/tom-brady-bill-belichick-pro-football-hall-of-fame-nfl-football-rob-parker/\">Rob Parker: Tom Brady shouldn’t be in the Pro Football Hall of Fame</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 29 Jan 2026 21:23:24 -0500"
-    },
-    {
-      "title": "Activist Monica Cannon-Grant sentenced to probation, home confinement for slew of fraud charges",
-      "link": "https://www.boston.com/news/crime/2026/01/29/activist-monica-cannon-grant-sentenced-to-probation-home-confinement-for-slew-of-fraud-charges/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The former CEO of the Violence in Boston nonprofit was sentenced Thursday after pleading guilty in September 2025.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/01/29/activist-monica-cannon-grant-sentenced-to-probation-home-confinement-for-slew-of-fraud-charges/\">Activist Monica Cannon-Grant sentenced to probation, home confinement for slew of fraud charges</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 29 Jan 2026 20:36:35 -0500"
     }
   ]
 }
