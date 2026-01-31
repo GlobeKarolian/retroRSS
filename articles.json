@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-01-31T13:38:31.728Z",
+  "lastUpdated": "2026-01-31T14:21:19.685Z",
   "articles": [
+    {
+      "title": "More details emerge about children charged with murder in R.I.",
+      "link": "https://www.boston.com/news/local-news/2026/01/31/more-details-emerge-about-children-charged-with-murder-in-r-i/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The preteens were arrested after a separate disturbance near the scene of the fatal Jan. 19 beating.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/01/31/more-details-emerge-about-children-charged-with-murder-in-r-i/\">More details emerge about children charged with murder in R.I.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 31 Jan 2026 08:50:20 -0500"
+    },
     {
       "title": "Allandale Farm loses second Highland steer following brother’s death last year",
       "link": "https://www.boston.com/news/local-news/2026/01/31/allandale-farm-loses-second-highland-steer-following-brothers-death-last-year/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-celtics/2026/01/30/celtics-nba-trade-deadline-news-rumors/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Boston is tied for second in the Eastern Conference entering Friday. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/01/30/celtics-nba-trade-deadline-news-rumors/\">Celtics reportedly unlikely to take &#8216;huge swings&#8217; ahead of NBA trade deadline</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 30 Jan 2026 15:58:10 -0500"
-    },
-    {
-      "title": "These 5 Boston restaurants received all-alcohol licenses under new legislation",
-      "link": "https://www.boston.com/food/restaurants/2026/01/30/5-boston-restaurants-alcohol-licenses/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The legislation allows Boston restaurants with beer-and-wine licenses to exchange it for a non-transferable all-alcohol license. </p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/01/30/5-boston-restaurants-alcohol-licenses/\">These 5 Boston restaurants received all-alcohol licenses under new legislation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 30 Jan 2026 15:38:43 -0500"
     }
   ]
 }
