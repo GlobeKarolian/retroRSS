@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-03T10:36:26.659Z",
+  "lastUpdated": "2026-02-03T11:32:01.034Z",
   "articles": [
+    {
+      "title": "10 Patriots takeaways from Super Bowl Opening Night",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/03/new-england-patriots-nfl-football-super-bowl-lx-opening-night-media-day/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I want to tell Matt Damon he’s the man. … Any Pats fan — I’m a fan.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/03/new-england-patriots-nfl-football-super-bowl-lx-opening-night-media-day/\">10 Patriots takeaways from Super Bowl Opening Night</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 03 Feb 2026 06:22:46 -0500"
+    },
     {
       "title": "Newton woman facing assault, kidnapping, other charges around alleged unlicensed cosmetic surgery in Allston",
       "link": "https://www.boston.com/news/local-news/2026/02/02/newton-woman-facing-charges-around-alleged-unlicensed-cosmetic-surgery-in-allston/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/community/boston-marathon/2026/02/02/molly-kokoski-boston-childrens-hospital/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I want to give back to the hospital that saved my life.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/02/02/molly-kokoski-boston-childrens-hospital/\">Once a patient, now a runner: She’s running for Boston Children’s Hospital</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 02 Feb 2026 15:49:04 -0500"
-    },
-    {
-      "title": "Saks OFF 5th to close Massachusetts stores",
-      "link": "https://www.boston.com/news/business/2026/02/02/saks-off-5th-to-close-massachusetts-stores/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The Assembly Row and Wrentham locations will shutter permanently as parent company Saks Global files for bankruptcy.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/02/02/saks-off-5th-to-close-massachusetts-stores/\">Saks OFF 5th to close Massachusetts stores</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 02 Feb 2026 15:42:00 -0500"
     }
   ]
 }
