@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-03T11:32:01.034Z",
+  "lastUpdated": "2026-02-03T12:53:41.012Z",
   "articles": [
+    {
+      "title": "North Andover’s Jake Bobo ready to play ‘bad guy’ against hometown Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/03/jake-bobo-new-england-patriots-nfl-football-seattle-seahawks-nfl-football/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"That's how those guys roll. But it's my job to, like I said earlier, prevent them from going to another parade.”</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/03/jake-bobo-new-england-patriots-nfl-football-seattle-seahawks-nfl-football/\">North Andover’s Jake Bobo ready to play ‘bad guy’ against hometown Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 03 Feb 2026 06:28:57 -0500"
+    },
     {
       "title": "10 Patriots takeaways from Super Bowl Opening Night",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/02/03/new-england-patriots-nfl-football-super-bowl-lx-opening-night-media-day/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/community/boston-marathon/2026/02/02/liz-lang-tedys-team/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"If I could inspire even one person reading this right now to be proactive about their health ... then every mile and every challenge will have been worth it.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/02/02/liz-lang-tedys-team/\">This runner is raising awareness about stroke and heart disease</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 02 Feb 2026 16:00:21 -0500"
-    },
-    {
-      "title": "Once a patient, now a runner: She’s running for Boston Children’s Hospital",
-      "link": "https://www.boston.com/community/boston-marathon/2026/02/02/molly-kokoski-boston-childrens-hospital/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I want to give back to the hospital that saved my life.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/02/02/molly-kokoski-boston-childrens-hospital/\">Once a patient, now a runner: She’s running for Boston Children’s Hospital</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 02 Feb 2026 15:49:04 -0500"
     }
   ]
 }
