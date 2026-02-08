@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-08T17:24:12.301Z",
+  "lastUpdated": "2026-02-08T18:32:37.005Z",
   "articles": [
+    {
+      "title": "Holy Cross dedicates court to Bob Cousy",
+      "link": "https://www.boston.com/sports/boston-celtics/2026/02/08/holy-cross-dedicates-court-bob-cousy-celtics-news/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Bill Simmons and Charlie Baker were in the house Saturday in Worcester.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/02/08/holy-cross-dedicates-court-bob-cousy-celtics-news/\">Holy Cross dedicates court to Bob Cousy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sun, 08 Feb 2026 12:52:41 -0500"
+    },
     {
       "title": "Healey proposes eliminating statute of limitations for rape when DNA evidence exists",
       "link": "https://www.boston.com/news/local-news/2026/02/08/healey-proposes-eliminating-statute-of-limitations-for-rape-when-dna-evidence-exists/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/02/07/patriots-seahawks-super-bowl-lx-preview-stats-halftime-show/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The Patriots are 4.5-point underdogs for Super Bowl LX, but that's just one of the many things you need to know ahead of Sunday's game. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/07/patriots-seahawks-super-bowl-lx-preview-stats-halftime-show/\">60 fun facts, stats, and things to know about Super Bowl LX before Patriots take on Seahawks</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 07 Feb 2026 17:02:59 -0500"
-    },
-    {
-      "title": "Patriots&#8217; Mike Vrabel reportedly received pointers from Bill Belichick and a rival coach ahead of Super Bowl LX",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/07/patriots-mike-vrabel-bill-belichick-andy-reid-super-bowl-lx/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Vrabel is also reportedly leaning on offensive coordinator Josh McDaniels's experience. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/07/patriots-mike-vrabel-bill-belichick-andy-reid-super-bowl-lx/\">Patriots&#8217; Mike Vrabel reportedly received pointers from Bill Belichick and a rival coach ahead of Super Bowl LX</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 07 Feb 2026 17:02:21 -0500"
     }
   ]
 }
