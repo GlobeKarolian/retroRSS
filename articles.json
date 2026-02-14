@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-14T16:25:13.893Z",
+  "lastUpdated": "2026-02-14T17:23:34.103Z",
   "articles": [
+    {
+      "title": "Here&#8217;s where Mass. finished on the latest list of most educated states",
+      "link": "https://www.boston.com/news/local-news/2026/02/14/heres-where-mass-finished-on-the-latest-list-of-most-educated-states/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>How do you like them apples? Massachusetts finishes first, yet again.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/14/heres-where-mass-finished-on-the-latest-list-of-most-educated-states/\">Here&#8217;s where Mass. finished on the latest list of most educated states</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 14 Feb 2026 11:23:55 -0500"
+    },
     {
       "title": "One of the rarest baseball cards is up for auction — and there are local connections",
       "link": "https://www.boston.com/news/local-news/2026/02/14/one-of-the-rarest-baseball-cards-is-up-for-auction-and-there-are-local-connections/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/culture/streaming/2026/02/13/new-movies-tv-shows-watch-streaming-now-february-13-2026/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/02/13/new-movies-tv-shows-watch-streaming-now-february-13-2026/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 13 Feb 2026 17:30:00 -0500"
-    },
-    {
-      "title": "Court says Mass. father’s battle over LGBTQ-friendly lessons excludes books on gender stereotypes",
-      "link": "https://www.boston.com/news/education/2026/02/13/judge-lexington-dad-cant-opt-son-out-of-books-on-gender-stereotypes/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The man’s lawsuit against Lexington’s school district “raises issues of ‘marriage, gender, and sexuality,’ not gender stereotyping,” a federal judge pointed out.</p>\n<p>The post <a href=\"https://www.boston.com/news/education/2026/02/13/judge-lexington-dad-cant-opt-son-out-of-books-on-gender-stereotypes/\">Court says Mass. father’s battle over LGBTQ-friendly lessons excludes books on gender stereotypes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 13 Feb 2026 17:08:30 -0500"
     }
   ]
 }
