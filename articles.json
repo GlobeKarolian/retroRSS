@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-18T21:32:24.674Z",
+  "lastUpdated": "2026-02-18T22:29:09.552Z",
   "articles": [
+    {
+      "title": "A Malibu Barbie Café pop-up is coming to Boston",
+      "link": "https://www.boston.com/food/food-news/2026/02/18/a-malibu-barbie-cafe-pop-up-is-coming-to-boston/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The interactive Barbie-themed dining experience is scheduled to open April 17 near Faneuil Hall.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/02/18/a-malibu-barbie-cafe-pop-up-is-coming-to-boston/\">A Malibu Barbie Café pop-up is coming to Boston</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 18 Feb 2026 17:17:37 -0500"
+    },
     {
       "title": "Baystate Health will no longer prescribe hormones to trans youth",
       "link": "https://www.boston.com/news/local-news/2026/02/18/baystate-health-will-no-longer-prescribe-hormones-to-trans-youth/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/02/18/trump-admin-responds-to-lawsuit-from-healey-aide-over-work-authorization/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A media director for Gov. Maura Healey says that the federal government's hold on some visa applications could cause her to lose her job. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/18/trump-admin-responds-to-lawsuit-from-healey-aide-over-work-authorization/\">Trump admin responds to lawsuit from Healey aide over work authorization</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 18 Feb 2026 14:56:15 -0500"
-    },
-    {
-      "title": "Review &#038; setlist: Nine Inch Nails get cinematic at TD Garden",
-      "link": "https://www.boston.com/culture/music/2026/02/18/nine-inch-nails-boston-review-setlist/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Nine Inch Nails weren't just a copy of a copy on their return visit to TD Garden, rewarding fans with rare tracks and a mesmerizing stage show.</p>\n<p>The post <a href=\"https://www.boston.com/culture/music/2026/02/18/nine-inch-nails-boston-review-setlist/\">Review &amp; setlist: Nine Inch Nails get cinematic at TD Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 18 Feb 2026 14:43:59 -0500"
     }
   ]
 }
