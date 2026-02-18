@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-02-18T19:45:15.575Z",
+  "lastUpdated": "2026-02-18T20:35:42.138Z",
   "articles": [
+    {
+      "title": "Trump admin responds to lawsuit from Healey aide over work authorization",
+      "link": "https://www.boston.com/news/local-news/2026/02/18/trump-admin-responds-to-lawsuit-from-healey-aide-over-work-authorization/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A media director for Gov. Maura Healey says that the federal government's hold on some visa applications could cause her to lose her job. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/18/trump-admin-responds-to-lawsuit-from-healey-aide-over-work-authorization/\">Trump admin responds to lawsuit from Healey aide over work authorization</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 18 Feb 2026 14:56:15 -0500"
+    },
     {
       "title": "Review &#038; setlist: Nine Inch Nails get cinematic at TD Garden",
       "link": "https://www.boston.com/culture/music/2026/02/18/nine-inch-nails-boston-review-setlist/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/02/18/20-foot-snowman-father-daughter/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"Parker\" the snowman has become a neighborhood photo stop — and next winter, it could get even bigger.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/02/18/20-foot-snowman-father-daughter/\">A father in Shirley built a 20-foot snowman for his daughter</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 18 Feb 2026 13:10:30 -0500"
-    },
-    {
-      "title": "This Braintree mom is running Boston for Mass. Eye and Ear",
-      "link": "https://www.boston.com/community/boston-marathon/2026/02/18/katie-nicoloro-mass-eye-and-ear/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I hope that by running the Boston Marathon, I can show them that we CAN do hard things.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/02/18/katie-nicoloro-mass-eye-and-ear/\">This Braintree mom is running Boston for Mass. Eye and Ear</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 18 Feb 2026 12:00:00 -0500"
     }
   ]
 }
