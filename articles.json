@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-01T14:21:09.418Z",
+  "lastUpdated": "2026-03-01T15:19:52.748Z",
   "articles": [
+    {
+      "title": "Chicopee installs security cameras on school bus stop arms to enforce illegal passing laws",
+      "link": "https://www.boston.com/news/local-news/2026/03/01/chicopee-installs-security-cameras-on-school-bus-stop-arms-to-enforce-illegal-passing-laws/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The safety initiative was started in response to pilot programs showing alarming rates of drivers illegally passing.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/01/chicopee-installs-security-cameras-on-school-bus-stop-arms-to-enforce-illegal-passing-laws/\">Chicopee installs security cameras on school bus stop arms to enforce illegal passing laws</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sun, 01 Mar 2026 09:35:47 -0500"
+    },
     {
       "title": "Review and setlist: Chris Stapleton brings the blues to Mohegan Sun Arena",
       "link": "https://www.boston.com/culture/concert-reviews/2026/03/01/chris-stapleton-brings-the-blues-to-mohegan-sun-arena/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/sports-news/2026/02/28/paramount-warner-bros-discovery-sports/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Most notably, the deal will likely result in CBS (owned by Paramount) and TNT/TBS (owned by Warner Bros. Discovery) being at least partially integrated.</p>\n<p>The post <a href=\"https://www.boston.com/sports/sports-news/2026/02/28/paramount-warner-bros-discovery-sports/\">What Paramount&#8217;s pending purchase of Warner Bros. Discovery means for sports fans</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 28 Feb 2026 10:56:44 -0500"
-    },
-    {
-      "title": "Patriots reportedly interested in A.J. Brown, but not at Eagles&#8217; current asking price",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/02/28/patriots-aj-brown-eagles-asking-price-nfl-trade-rumors/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The Patriots have been linked to Brown for quite some time, but the rumors seemed to hit their peak this week. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/02/28/patriots-aj-brown-eagles-asking-price-nfl-trade-rumors/\">Patriots reportedly interested in A.J. Brown, but not at Eagles&#8217; current asking price</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 28 Feb 2026 10:55:56 -0500"
     }
   ]
 }
