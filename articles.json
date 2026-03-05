@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-05T22:28:12.731Z",
+  "lastUpdated": "2026-03-05T23:48:57.764Z",
   "articles": [
+    {
+      "title": "Dismembered human remains found in Shirley identified as 69-year-old man",
+      "link": "https://www.boston.com/news/crime/2026/03/05/dismembered-human-remains-found-in-shirley-identified-as-69-year-old-man/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“They were able to recover additional body parts from the water. Those parts appear to have been clean cut.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/05/dismembered-human-remains-found-in-shirley-identified-as-69-year-old-man/\">Dismembered human remains found in Shirley identified as 69-year-old man</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Thu, 05 Mar 2026 18:39:25 -0500"
+    },
     {
       "title": "&#8216;State-sanctioned cruelty&#8217;: Chelsea family sues ICE after Mother&#8217;s Day arrest last year",
       "link": "https://www.boston.com/news/local-news/2026/03/05/state-sanctioned-cruelty-chelsea-family-sues-ice-after-mothers-day-arrest-last-year/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/03/05/boston-restaurant-hit-with-brief-license-suspension-after-hosting-patriots-players-raucous-party/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Estella found itself in hot water after hosting an after-hours party where police found strippers and hookahs.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/05/boston-restaurant-hit-with-brief-license-suspension-after-hosting-patriots-players-raucous-party/\">Boston restaurant hit with brief license suspension after hosting Patriots players’ raucous party</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 05 Mar 2026 14:19:05 -0500"
-    },
-    {
-      "title": "Netflix acquires Ben Affleck&#8217;s AI startup InterPositive",
-      "link": "https://www.boston.com/culture/entertainment/2026/03/05/ben-affleck-netflix-ai-interpositive/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Netflix and Ben Affleck are going into business together, with the streaming giant acquiring an AI tools company co-founded by the Cambridge native.</p>\n<p>The post <a href=\"https://www.boston.com/culture/entertainment/2026/03/05/ben-affleck-netflix-ai-interpositive/\">Netflix acquires Ben Affleck&#8217;s AI startup InterPositive</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 05 Mar 2026 14:00:20 -0500"
     }
   ]
 }
