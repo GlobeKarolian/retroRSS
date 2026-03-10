@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-10T19:35:54.377Z",
+  "lastUpdated": "2026-03-10T20:29:58.230Z",
   "articles": [
+    {
+      "title": "Gas prices keep climbing, and Massachusetts may see some of the biggest hikes",
+      "link": "https://www.boston.com/news/local-news/2026/03/10/gas-prices-keep-climbing-and-massachusetts-may-see-some-of-the-biggest-hikes/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Disruptions in the global oil supply are driving up prices, and New England’s fuel market leaves the state especially exposed. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/10/gas-prices-keep-climbing-and-massachusetts-may-see-some-of-the-biggest-hikes/\">Gas prices keep climbing, and Massachusetts may see some of the biggest hikes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 10 Mar 2026 16:13:29 -0400"
+    },
     {
       "title": "Patriots reportedly agree to 4-year contract with WR Romeo Doubs",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/03/10/romeo-doubs-contract-patriots/",
@@ -28,7 +34,7 @@
     {
       "title": "Joe Mazzulla praises Baylor Scheierman’s work ethic",
       "link": "https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-praises-baylor-scheierman/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"He doesn’t care about anything except competing, and that doesn’t get rewarded enough.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-praises-baylor-scheierman/\">Joe Mazzulla praises Baylor Scheierman��s work ethic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"He doesn’t care about anything except competing, and that doesn’t get rewarded enough.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-praises-baylor-scheierman/\">Joe Mazzulla praises Baylor Scheierman’s work ethic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 10 Mar 2026 14:02:58 -0400"
     },
     {
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-best-soundbite-celtics-history/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The quotable Celtics coach has produced some memorable lines in his Boston tenure, but which one stands out?</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/10/joe-mazzulla-best-soundbite-celtics-history/\">Tell us: What&#8217;s been Joe Mazzulla&#8217;s best soundbite?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 10 Mar 2026 12:15:55 -0400"
-    },
-    {
-      "title": "Why this Boston Marathon qualifier is running for the American Heart Association",
-      "link": "https://www.boston.com/community/boston-marathon/2026/03/10/blake-smith-american-heart-association/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"This cause is personal — and I’m running for every heartbeat that matters.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/10/blake-smith-american-heart-association/\">Why this Boston Marathon qualifier is running for the American Heart Association</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 10 Mar 2026 12:00:00 -0400"
     }
   ]
 }
