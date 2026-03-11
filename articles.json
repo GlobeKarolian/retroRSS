@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-11T20:30:27.710Z",
+  "lastUpdated": "2026-03-11T21:29:59.404Z",
   "articles": [
+    {
+      "title": "Samuel Adams launches new &#8216;Our City. Our Beer.&#8217; variety pack inspired by Boston sports stars",
+      "link": "https://www.boston.com/food/food-news/2026/03/11/samuel-adams-launches-sports-stars-beer-variety-pack/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The new pack features four beers inspired by Derrick White, Garrett Crochet, Julian Edelman, and Zdeno Chara.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/11/samuel-adams-launches-sports-stars-beer-variety-pack/\">Samuel Adams launches new &#8216;Our City. Our Beer.&#8217; variety pack inspired by Boston sports stars</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 11 Mar 2026 17:00:08 -0400"
+    },
     {
       "title": "Boston Marathon race director to run with his 3 kids — and astronaut Sunita Williams",
       "link": "https://www.boston.com/news/boston-marathon/2026/03/11/dave-mcgillivray-sunita-williams/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/food/food-news/2026/03/11/seamark-encore-boston-to-close/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Seamark said the decision was due to \"economic challenges.\" The labor union thinks the decision was retaliatory.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/11/seamark-encore-boston-to-close/\">Seamark at Encore Boston to close, less than a month after workers unionize</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 11 Mar 2026 12:39:07 -0400"
-    },
-    {
-      "title": "A nearly 100-year-old Catholic school in Medford is closing",
-      "link": "https://www.boston.com/news/local-news/2026/03/11/a-nearly-100-year-old-catholic-school-in-medford-is-closing/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Citing falling enrollment and growing costs, the St. Joseph School will close at the end of the school year. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/11/a-nearly-100-year-old-catholic-school-in-medford-is-closing/\">A nearly 100-year-old Catholic school in Medford is closing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 11 Mar 2026 12:38:49 -0400"
     }
   ]
 }
