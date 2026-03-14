@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-14T16:27:39.532Z",
+  "lastUpdated": "2026-03-14T17:24:10.036Z",
   "articles": [
+    {
+      "title": "He&#8217;s running Boston to support people like him with Type 1 diabetes",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/14/collin-bennett-beth-israel/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"Joslin Diabetes Center was the reason I did not lose hope.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/14/collin-bennett-beth-israel/\">He&#8217;s running Boston to support people like him with Type 1 diabetes</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 14 Mar 2026 12:00:00 -0400"
+    },
     {
       "title": "Springfield native Ruth E. Carter keeps making Oscars history",
       "link": "https://www.boston.com/news/local-news/2026/03/14/springfield-native-ruth-e-carter-keeps-making-oscars-history/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/culture/streaming/2026/03/13/new-movies-tv-shows-watch-streaming-now-march-13-2026/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The best of what's new streaming on Netflix, Hulu, HBO Max, Disney Plus, and more.</p>\n<p>The post <a href=\"https://www.boston.com/culture/streaming/2026/03/13/new-movies-tv-shows-watch-streaming-now-march-13-2026/\">5 must-watch movies &amp; TV shows streaming right now</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 13 Mar 2026 19:48:03 -0400"
-    },
-    {
-      "title": "5 things to know about Patriots offensive lineman Alijah Vera-Tucker",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/03/13/5-things-to-know-about-patriots-offensive-lineman-alijah-vera-tucker/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Meet the Patriots' newest offensive guard. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/03/13/5-things-to-know-about-patriots-offensive-lineman-alijah-vera-tucker/\">5 things to know about Patriots offensive lineman Alijah Vera-Tucker</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 13 Mar 2026 19:19:34 -0400"
     }
   ]
 }
