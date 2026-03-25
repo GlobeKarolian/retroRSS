@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-25T19:44:02.006Z",
+  "lastUpdated": "2026-03-25T20:34:56.403Z",
   "articles": [
+    {
+      "title": "Mass. woman killed in 6-vehicle crash in Florida",
+      "link": "https://www.boston.com/news/local-news/2026/03/25/mass-woman-killed-in-6-vehicle-crash-in-florida/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A chain-reaction crash involving a semi-truck on I-75 left one dead and multiple others seriously injured, authorities say.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/25/mass-woman-killed-in-6-vehicle-crash-in-florida/\">Mass. woman killed in 6-vehicle crash in Florida</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 25 Mar 2026 15:56:56 -0400"
+    },
     {
       "title": "Former Miss Hall’s School teacher at center of grooming allegations is charged with rape",
       "link": "https://www.boston.com/news/crime/2026/03/25/former-miss-halls-school-teacher-matthew-rutledge-rape-charges/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/crime/2026/03/25/cape-cod-man-charged-with-sisters-murder/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Kenneth Beltrame was expected to be arraigned Wednesday in Barnstable District Court. His sister, Jennifer Beltrame, was 61.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/25/cape-cod-man-charged-with-sisters-murder/\">Cape Cod man charged with sister&#8217;s murder</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 25 Mar 2026 12:43:05 -0400"
-    },
-    {
-      "title": "No one can use a gas-powered leaf blower in these 2 Mass. towns, thanks to new laws",
-      "link": "https://www.boston.com/news/local-news/2026/03/25/no-one-can-use-a-gas-powered-leaf-blower-in-these-2-mass-towns-thanks-to-new-laws/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Arlington and Lexington restrict use to electric models, citing noise and environmental concerns. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/25/no-one-can-use-a-gas-powered-leaf-blower-in-these-2-mass-towns-thanks-to-new-laws/\">No one can use a gas-powered leaf blower in these 2 Mass. towns, thanks to new laws</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 25 Mar 2026 12:42:10 -0400"
     }
   ]
 }
