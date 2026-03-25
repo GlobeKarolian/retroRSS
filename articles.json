@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-25T20:34:56.403Z",
+  "lastUpdated": "2026-03-25T21:35:50.003Z",
   "articles": [
+    {
+      "title": "CeCarré brings a $48 gold-and-caviar-topped pizza to the Pru",
+      "link": "https://www.boston.com/food/food-news/2026/03/25/cecarre-pizza-opening-prudential/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>For about half the price, CeCarré Pizza &amp; Provisions also serves pizzas with ingredients like pepperoni, basil, french fries, and Gochujang.</p>\n<p>The post <a href=\"https://www.boston.com/food/food-news/2026/03/25/cecarre-pizza-opening-prudential/\">CeCarré brings a $48 gold-and-caviar-topped pizza to the Pru</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 25 Mar 2026 16:54:18 -0400"
+    },
     {
       "title": "Mass. woman killed in 6-vehicle crash in Florida",
       "link": "https://www.boston.com/news/local-news/2026/03/25/mass-woman-killed-in-6-vehicle-crash-in-florida/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/community/boston-marathon/2026/03/25/annie-yardley-corey-c-griffin-foundation/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Annie Yardley was \"not an athlete before this.\" Now, she's gearing up to run the Boston Marathon for the Corey C. Griffin Foundation.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/25/annie-yardley-corey-c-griffin-foundation/\">Boston runner to take on 2026 Marathon for Corey C. Griffin Foundation</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 25 Mar 2026 13:03:40 -0400"
-    },
-    {
-      "title": "Cape Cod man charged with sister&#8217;s murder",
-      "link": "https://www.boston.com/news/crime/2026/03/25/cape-cod-man-charged-with-sisters-murder/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Kenneth Beltrame was expected to be arraigned Wednesday in Barnstable District Court. His sister, Jennifer Beltrame, was 61.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/03/25/cape-cod-man-charged-with-sisters-murder/\">Cape Cod man charged with sister&#8217;s murder</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 25 Mar 2026 12:43:05 -0400"
     }
   ]
 }
