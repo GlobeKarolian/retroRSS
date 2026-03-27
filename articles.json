@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-03-27T15:50:40.960Z",
+  "lastUpdated": "2026-03-27T16:51:39.881Z",
   "articles": [
+    {
+      "title": "Boston College senior running Boston Marathon to support first responders",
+      "link": "https://www.boston.com/community/boston-marathon/2026/03/27/merideth-greene-last-call-foundation/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Boston College senior Merideth Greene is honoring firefighters and supporting the Last Call Foundation's mission.</p>\n<p>The post <a href=\"https://www.boston.com/community/boston-marathon/2026/03/27/merideth-greene-last-call-foundation/\">Boston College senior running Boston Marathon to support first responders</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 27 Mar 2026 12:47:32 -0400"
+    },
     {
       "title": "Peach Farm is closing — but only temporarily",
       "link": "https://www.boston.com/food/food-news/2026/03/27/peach-farm-is-closing-but-only-temporarily/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-red-sox/2026/03/26/red-sox-marcelo-mayer-bench-pinch-hit-mlb-baseball-boston-alex-cora/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“To be with the team throughout the whole season is special. And I was definitely tearing up in the anthem a little bit.”</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/03/26/red-sox-marcelo-mayer-bench-pinch-hit-mlb-baseball-boston-alex-cora/\">In first Opening Day with Red Sox, Marcelo Mayer made quite the impression off the bench </a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 26 Mar 2026 22:37:26 -0400"
-    },
-    {
-      "title": "Lucky pup thanks NH firefighters for quick thinking that saved his life",
-      "link": "https://www.boston.com/news/local-news/2026/03/26/lucky-pup-thanks-nh-firefighters-for-quick-thinking-that-saved-his-life/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>When Ziggy the dog cut his leg on a solar light last month, his sitter enlisted the help of the Campton-Thornton Fire Department.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/26/lucky-pup-thanks-nh-firefighters-for-quick-thinking-that-saved-his-life/\">Lucky pup thanks NH firefighters for quick thinking that saved his life</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 26 Mar 2026 21:56:37 -0400"
     }
   ]
 }
