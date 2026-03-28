@@ -1,10 +1,16 @@
 {
-  "lastUpdated": "2026-03-28T20:26:31.957Z",
+  "lastUpdated": "2026-03-28T21:27:03.087Z",
   "articles": [
+    {
+      "title": "‘No Kings’ protest: What protesters said and why they showed up",
+      "link": "https://www.boston.com/news/local-news/2026/03/28/what-protesters-said-and-why-they-showed-up/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>From veterans and church groups to costumed protesters and dog owners, demonstrators on Boston Common said they felt compelled to speak out.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/28/what-protesters-said-and-why-they-showed-up/\">‘No Kings’ protest: What protesters said and why they showed up</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 28 Mar 2026 17:13:30 -0400"
+    },
     {
       "title": "Photo scroll: Scenes from Boston’s &#8216;No Kings&#8217; protest on March 28",
       "link": "https://www.boston.com/news/local-news/2026/03/28/no-kings-photos-boston-march-28/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Thousands are expected to rally on Boston Common in nationwide “No Kings” protests, with 160+ events across Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/28/no-kings-photos-boston-march-28/\">Photo scroll: Scenes from Boston’s &#8216;No Kings&#8217; protest on March 28</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Thousands were expected to rally on Boston Common as part of the nationwide “No Kings” protests, with 160+ events across Massachusetts alone.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/28/no-kings-photos-boston-march-28/\">Photo scroll: Scenes from Boston’s &#8216;No Kings&#8217; protest on March 28</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 28 Mar 2026 14:03:42 -0400"
     },
     {
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-celtics/2026/03/28/jayson-tatum-return-celtics/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"You never want to take for granted an opportunity to be on a team that's contending for a championship.\" </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/03/28/jayson-tatum-return-celtics/\">Why did Jayson Tatum come back this season? The Celtics&#8217; success had &#8216;a lot&#8217; to do with it.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 28 Mar 2026 00:18:25 -0400"
-    },
-    {
-      "title": "Police: Man killed in Lowell apartment complex shooting",
-      "link": "https://www.boston.com/news/local-news/2026/03/27/police-man-killed-in-lowell-apartment-complex-shooting/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Investigators say the shooting happened after an altercation between two armed men.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/03/27/police-man-killed-in-lowell-apartment-complex-shooting/\">Police: Man killed in Lowell apartment complex shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 27 Mar 2026 21:52:39 -0400"
     }
   ]
 }
