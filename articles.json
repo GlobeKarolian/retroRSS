@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-03T15:36:57.630Z",
+  "lastUpdated": "2026-04-03T16:36:19.483Z",
   "articles": [
+    {
+      "title": "Adam Schefter explains how &#8216;Hard Knocks&#8217; finally landed the Patriots",
+      "link": "https://www.boston.com/sports/new-england-patriots/2026/04/03/patriots-hard-knocks-adam-schefter-report-commments/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"When the Patriots said they'll do it next year, they said you're in. You'll do it next year. You've got 2027.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/04/03/patriots-hard-knocks-adam-schefter-report-commments/\">Adam Schefter explains how &#8216;Hard Knocks&#8217; finally landed the Patriots</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 03 Apr 2026 12:15:55 -0400"
+    },
     {
       "title": "Mass. high school pitcher Brody Bumila&#8217;s fastball tops 100 mph, draws crowd of MLB scouts",
       "link": "https://www.boston.com/sports/morning-sports-update/2026/04/03/brody-bumila-fastball-100-mph-mlb-scouts/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/crime/2026/04/02/mass-man-sentenced-for-illegally-trafficking-dozens-of-endangered-animal-parts/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The man imported the parts from dealers in Cameroon and Indonesia, who would hunt and kill the animals he requested.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/02/mass-man-sentenced-for-illegally-trafficking-dozens-of-endangered-animal-parts/\">Mass. man sentenced for illegally trafficking dozens of endangered animal parts</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 02 Apr 2026 22:44:17 -0400"
-    },
-    {
-      "title": "Taunton man convicted in fatal stabbing of Falmouth 19-year-old",
-      "link": "https://www.boston.com/news/local-news/2026/04/02/taunton-man-convicted-in-fatal-stabbing-of-falmouth-19-year-old/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The man drove to an apartment building in Falmouth with the intention of attacking the victim, prosecutors said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/02/taunton-man-convicted-in-fatal-stabbing-of-falmouth-19-year-old/\">Taunton man convicted in fatal stabbing of Falmouth 19-year-old</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 02 Apr 2026 22:27:25 -0400"
     }
   ]
 }
