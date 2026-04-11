@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-11T12:51:43.671Z",
+  "lastUpdated": "2026-04-11T13:53:43.333Z",
   "articles": [
+    {
+      "title": "Former Boston police commissioner, off-duty cop, firefighter, and restaurant partner save choking man",
+      "link": "https://www.boston.com/news/local-news/2026/04/11/former-boston-police-commissioner-off-duty-cop-firefighter-and-restaurant-partner-save-choking-man/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Quick action at the Chestnut Hill Capital Grille is credited with saving an 80-year-old diner on Easter eve.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/11/former-boston-police-commissioner-off-duty-cop-firefighter-and-restaurant-partner-save-choking-man/\">Former Boston police commissioner, off-duty cop, firefighter, and restaurant partner save choking man</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 11 Apr 2026 09:23:03 -0400"
+    },
     {
       "title": "Mass. high court allows AG’s lawsuit against Meta to move forward",
       "link": "https://www.boston.com/news/local-news/2026/04/11/mass-high-court-allows-ags-lawsuit-against-meta-to-move-forward/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-celtics/2026/04/10/celtics-pelicans-injury-report-jayson-tatum-jaylen-brown/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Jaylen Brown was listed questionable as he manages his left Achilles tendinitis, but he will be available.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/10/celtics-pelicans-injury-report-jayson-tatum-jaylen-brown/\">Jayson Tatum won’t play in Celtics’ penultimate regular season matchup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 10 Apr 2026 17:27:57 -0400"
-    },
-    {
-      "title": "She’s running Boston to honor her daughter&#8217;s courage through cancer treatment",
-      "link": "https://www.boston.com/community/why-im-running/2026/04/10/lori-robertson-massachusetts-general-hospital/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I run this marathon for her journey of bravery, for her future opportunities and for all those that have made this hope possible.\"</p>\n<p>The post <a href=\"https://www.boston.com/community/why-im-running/2026/04/10/lori-robertson-massachusetts-general-hospital/\">She’s running Boston to honor her daughter&#8217;s courage through cancer treatment</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 10 Apr 2026 17:00:00 -0400"
     }
   ]
 }
