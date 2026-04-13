@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-13T20:50:57.034Z",
+  "lastUpdated": "2026-04-13T21:44:06.289Z",
   "articles": [
+    {
+      "title": "US Army veteran and wife ruck Boston to honor fallen service members",
+      "link": "https://www.boston.com/community/why-im-running/2026/04/13/keith-waterfield-tough-ruck/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Keith Waterfield and his wife are running the 130th Boston Marathon for Tough Ruck.</p>\n<p>The post <a href=\"https://www.boston.com/community/why-im-running/2026/04/13/keith-waterfield-tough-ruck/\">US Army veteran and wife ruck Boston to honor fallen service members</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Mon, 13 Apr 2026 17:00:00 -0400"
+    },
     {
       "title": "Rhode Island bill proposes 24-hour bar hours during World Cup",
       "link": "https://www.boston.com/news/local-news/2026/04/13/rhode-island-bill-24-hour-bar-world-cup/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/crime/2026/04/13/police-armed-robbery-suspects-used-gun-rock-and-bear-spray-in-dorchester-attack/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Three people were arrested after victims were assaulted during a daytime robbery, police say.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/04/13/police-armed-robbery-suspects-used-gun-rock-and-bear-spray-in-dorchester-attack/\">Police: Armed robbery suspects used gun, rock, and bear spray in Dorchester attack</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 13 Apr 2026 13:24:00 -0400"
-    },
-    {
-      "title": "Mass. 4th grader struck, killed by car",
-      "link": "https://www.boston.com/news/local-news/2026/04/13/mass-4th-grader-struck-killed-by-car/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The 10-year-old girl was hit Saturday in Webster, and a vigil is planned as the community mourns, authorities say.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/13/mass-4th-grader-struck-killed-by-car/\">Mass. 4th grader struck, killed by car</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 13 Apr 2026 12:51:51 -0400"
     }
   ]
 }
