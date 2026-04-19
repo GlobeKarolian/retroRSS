@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-19T11:33:01.627Z",
+  "lastUpdated": "2026-04-19T12:55:30.507Z",
   "articles": [
+    {
+      "title": "DA: Lexington man armed with knife killed by police in officer-involved shooting",
+      "link": "https://www.boston.com/news/local-news/2026/04/19/da-lexington-man-armed-with-knife-killed-by-police-in-officer-involved-shooting/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The man was fatally shot outside his home in Lexington after he allegedly approached police while armed with a knife.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/19/da-lexington-man-armed-with-knife-killed-by-police-in-officer-involved-shooting/\">DA: Lexington man armed with knife killed by police in officer-involved shooting</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sun, 19 Apr 2026 08:43:52 -0400"
+    },
     {
       "title": "With Joel Embiid out, these Celtics better pummel the 76ers on the glass",
       "link": "https://www.boston.com/sports/boston-celtics/2026/04/18/celtics-76ers-playoffs-joel-embiid-rebounding/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/04/18/bates-college-locks-down-after-reported-gunman-later-revealed-to-be-a-false-alarm/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Local police said no weapon was confirmed, and the person may have been experiencing a mental health crisis.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/18/bates-college-locks-down-after-reported-gunman-later-revealed-to-be-a-false-alarm/\">Bates College locks down after reported gunman, later revealed to be a false alarm</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 18 Apr 2026 09:03:20 -0400"
-    },
-    {
-      "title": "This Newburyport record store just turned 50. Here’s their secret.",
-      "link": "https://www.boston.com/news/music/2026/04/18/newburyport-dyno-records-50th-anniversary/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“I have customers who’ve been coming in since the ’70s, who have literally explored a lifetime of music — their lifetime of music — right through that store.”</p>\n<p>The post <a href=\"https://www.boston.com/news/music/2026/04/18/newburyport-dyno-records-50th-anniversary/\">This Newburyport record store just turned 50. Here’s their secret.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 18 Apr 2026 08:54:40 -0400"
     }
   ]
 }
