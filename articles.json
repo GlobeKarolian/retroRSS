@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-04-20T14:46:11.376Z",
+  "lastUpdated": "2026-04-20T16:05:38.881Z",
   "articles": [
+    {
+      "title": "Photos: Scenes from the 130th Boston Marathon",
+      "link": "https://www.boston.com/sports/boston-marathon/2026/04/20/photos-scenes-from-the-130th-boston-marathon/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Check out moments of inspiration and victory throughout the day along the course. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-marathon/2026/04/20/photos-scenes-from-the-130th-boston-marathon/\">Photos: Scenes from the 130th Boston Marathon</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Mon, 20 Apr 2026 10:55:53 -0400"
+    },
     {
       "title": "Marcel Hug wins 2026 Boston Marathon men&#8217;s wheelchair division, cruises to ninth win",
       "link": "https://www.boston.com/sports/boston-marathon/2026/04/20/marcel-hug-wins-2026-boston-marathon-mens-wheelchair-division-time/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-celtics/2026/04/19/celtics-crowd-trolls-76ers-fans-with-we-want-boston-chants-during-blowout-win/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>76ers fans said they wanted Boston. Celtics fans mocked them loudly. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/04/19/celtics-crowd-trolls-76ers-fans-with-we-want-boston-chants-during-blowout-win/\">Celtics crowd trolls 76ers fans with &#8216;We want Boston&#8217; chants during blowout win</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sun, 19 Apr 2026 22:04:30 -0400"
-    },
-    {
-      "title": "Attleboro man sentenced after child porn conviction",
-      "link": "https://www.boston.com/news/local-news/2026/04/19/attleboro-man-sentenced-after-child-porn-conviction/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"The defendant has demonstrated that he has a disturbed and disordered mind by disseminating hundreds of nude photos of children. The sentence is warranted,\" Quinn said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/04/19/attleboro-man-sentenced-after-child-porn-conviction/\">Attleboro man sentenced after child porn conviction</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sun, 19 Apr 2026 22:01:47 -0400"
     }
   ]
 }
