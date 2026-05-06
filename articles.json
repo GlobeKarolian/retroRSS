@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-06T21:53:41.914Z",
+  "lastUpdated": "2026-05-06T22:50:38.577Z",
   "articles": [
+    {
+      "title": "Worcester man fatally stabbed near NYC&#8217;s Times Square identified",
+      "link": "https://www.boston.com/news/crime/2026/05/06/worcester-man-fatally-stabbed-near-nycs-times-square-identified/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Leonides Baez, of Worcester, died of his injuries at the hospital Monday, police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/05/06/worcester-man-fatally-stabbed-near-nycs-times-square-identified/\">Worcester man fatally stabbed near NYC&#8217;s Times Square identified</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 06 May 2026 18:06:41 -0400"
+    },
     {
       "title": "Mighty Squirrel Brewing Co. is opening a massive beer garden in Waltham",
       "link": "https://www.boston.com/food/beer/2026/05/06/mighty-squirrel-brewing-co-to-open-beer-garden-waltham/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-celtics/2026/05/06/tracy-mcgrady-jaylen-brown-celtics-frustration-comments/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"There's just been a lot of stuff that I've been hearing going on with the Boston organization with JB.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/05/06/tracy-mcgrady-jaylen-brown-celtics-frustration-comments/\">Tracy McGrady: Jaylen Brown has deep frustration with Celtics organization</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 06 May 2026 14:02:58 -0400"
-    },
-    {
-      "title": "The Sagamore Bridge replacement project is underway – sort of",
-      "link": "https://www.boston.com/news/local-news/2026/05/06/the-sagamore-bridge-replacement-project-is-underway-sort-of/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>MassDOT has started its foundation load testing program to help make way for the new bridge. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/06/the-sagamore-bridge-replacement-project-is-underway-sort-of/\">The Sagamore Bridge replacement project is underway – sort of</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 06 May 2026 13:50:31 -0400"
     }
   ]
 }
