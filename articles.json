@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-15T20:14:17.934Z",
+  "lastUpdated": "2026-05-15T21:56:35.684Z",
   "articles": [
+    {
+      "title": "Mayor Wu remains firm as councilors consider rejecting her budget",
+      "link": "https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Mayor Michelle Wu's budget proposal contains cuts that have angered some City Council members. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/15/boston-budget-wu-remains-firm/\">Mayor Wu remains firm as councilors consider rejecting her budget</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 15 May 2026 16:18:24 -0400"
+    },
     {
       "title": "Scholars bar is closing after 15 years. A new concept is already planned.",
       "link": "https://www.boston.com/food/food-news/2026/05/15/scholars-bar-is-closing-after-15-years/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/travel/flights/2026/05/15/jetblue-is-ending-service-at-manchester-boston-regional-airport/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"We know the community will also be disappointed to hear this news.\"</p>\n<p>The post <a href=\"https://www.boston.com/travel/flights/2026/05/15/jetblue-is-ending-service-at-manchester-boston-regional-airport/\">JetBlue is ending service at Manchester-Boston Regional Airport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 15 May 2026 11:37:40 -0400"
-    },
-    {
-      "title": "What Boston meteorologists are saying about warmer temperatures into next week",
-      "link": "https://www.boston.com/weather/local-news/2026/05/15/warmer-temperatures-next-week/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"Taste of summer early next week as jet stream builds over the east.  Tuesday will be the hottest day.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/05/15/warmer-temperatures-next-week/\">What Boston meteorologists are saying about warmer temperatures into next week</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 15 May 2026 11:30:57 -0400"
     }
   ]
 }
