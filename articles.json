@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-18T06:58:51.756Z",
+  "lastUpdated": "2026-05-18T11:09:46.679Z",
   "articles": [
+    {
+      "title": "Lynn teacher was drugged and assaulted by coworker, lawsuit claims",
+      "link": "https://www.boston.com/news/local-news/2026/05/18/lynn-teacher-was-drugged-and-assaulted-by-coworker-lawsuit-claims/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The male colleague had previously been acquitted of indecently assaulting a student, the lawsuit notes.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/18/lynn-teacher-was-drugged-and-assaulted-by-coworker-lawsuit-claims/\">Lynn teacher was drugged and assaulted by coworker, lawsuit claims</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Mon, 18 May 2026 05:00:00 -0400"
+    },
     {
       "title": "Exonerated Chelsea man is suing for $1 million after 34 years in prison",
       "link": "https://www.boston.com/news/local-news/2026/05/17/exonerated-chelsea-man-is-suing-for-1-million-after-34-years-in-prison/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/05/16/nfl-patriots-mike-vrabel-coaching-vibe/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"It was very much the same old Vrabel that we observed a season ago.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/16/nfl-patriots-mike-vrabel-coaching-vibe/\">Vibe in Patriots building reportedly better than two weeks ago with Mike Vrabel</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 16 May 2026 23:15:57 -0400"
-    },
-    {
-      "title": "Willson Contreras&#8217;s go-ahead HR, Payton Tolle’s 8 strong innings lift Red Sox past Braves 3-2",
-      "link": "https://www.boston.com/sports/boston-red-sox/2026/05/16/red-sox-braves-willson-contreras-payton-tolle/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Contreras clobbered a game-winning 426-foot homer to left field in the eighth frame. </p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/05/16/red-sox-braves-willson-contreras-payton-tolle/\">Willson Contreras&#8217;s go-ahead HR, Payton Tolle’s 8 strong innings lift Red Sox past Braves 3-2</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 16 May 2026 23:03:33 -0400"
     }
   ]
 }
