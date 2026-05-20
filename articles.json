@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-20T09:25:38.247Z",
+  "lastUpdated": "2026-05-20T12:20:40.633Z",
   "articles": [
+    {
+      "title": "Where did Sandwich, Mass. get its name?",
+      "link": "https://www.boston.com/community/wickedpedia/2026/05/20/where-did-sandwich-mass-get-its-name/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The Cape Cod town likely got its name from Sandwich, England — but historians still cannot say exactly who brought it to Massachusetts.</p>\n<p>The post <a href=\"https://www.boston.com/community/wickedpedia/2026/05/20/where-did-sandwich-mass-get-its-name/\">Where did Sandwich, Mass. get its name?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 20 May 2026 08:00:00 -0400"
+    },
     {
       "title": "Recent homes sales in Greater Boston (May 20)",
       "link": "https://www.boston.com/real-estate/latest-sales/2026/05/20/recent-homes-sales-in-greater-boston-may-20/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/weather/local-news/2026/05/19/boston-broke-the-heat-record-at-96-degrees-heres-how-long-the-steamy-weather-will-last/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"It will still be very hot with real relief not expected until Thursday.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/05/19/boston-broke-the-heat-record-at-96-degrees-heres-how-long-the-steamy-weather-will-last/\">Boston broke the heat record at 96 degrees. Here&#8217;s how long the steamy weather will last.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 19 May 2026 19:52:09 -0400"
-    },
-    {
-      "title": "3 stabbed, 2 arrested in chaotic scene at R.I. town beach, police say",
-      "link": "https://www.boston.com/news/local-news/2026/05/19/3-stabbed-2-arrested-in-chaotic-scene-at-r-i-town-beach-police-say/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Violence broke out at Narragansett Town Beach, causing chaos that prompted additional, unrelated disturbances.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/19/3-stabbed-2-arrested-in-chaotic-scene-at-r-i-town-beach-police-say/\">3 stabbed, 2 arrested in chaotic scene at R.I. town beach, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 19 May 2026 19:43:52 -0400"
     }
   ]
 }
