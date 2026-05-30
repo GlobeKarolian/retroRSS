@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-05-30T18:08:07.178Z",
+  "lastUpdated": "2026-05-30T20:06:23.802Z",
   "articles": [
+    {
+      "title": "Did you hear it? Here’s what we know about a big boom heard around Mass.",
+      "link": "https://www.boston.com/news/local-news/2026/05/30/boom-heard-boston-massachusetts-social-media/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"Bolide meteor created the thunderous sonic boom.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/30/boom-heard-boston-massachusetts-social-media/\">Did you hear it? Here’s what we know about a big boom heard around Mass.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 30 May 2026 15:49:11 -0400"
+    },
     {
       "title": "Brayan Bello excels in bulk relief, but opener melts in Red Sox&#8217; 4-3 loss to Guardians",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/05/29/red-sox-guardians-brayan-bello-tyler-samaniego/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/05/29/jerod-mayo-patriots-fifth-down-capital-job/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Mayo joined Fifth Down Capital as the company’s managing director in February.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/05/29/jerod-mayo-patriots-fifth-down-capital-job/\">Ex-Patriots HC Jerod Mayo has a new job away from football</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 29 May 2026 17:32:32 -0400"
-    },
-    {
-      "title": "Mass. man reports beating Mount Everest speed climbing record",
-      "link": "https://www.boston.com/news/local-news/2026/05/29/mass-man-reports-beating-mount-everest-speed-climbing-record/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“The fitness is the easy part,” Tyler Andrews said in 2025. “The challenge is managing all the variables on the mountain itself.”</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/05/29/mass-man-reports-beating-mount-everest-speed-climbing-record/\">Mass. man reports beating Mount Everest speed climbing record</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 29 May 2026 15:40:32 -0400"
     }
   ]
 }
