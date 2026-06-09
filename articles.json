@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-09T09:36:36.026Z",
+  "lastUpdated": "2026-06-09T12:33:41.799Z",
   "articles": [
+    {
+      "title": "An approachable World Cup guide: Scotland",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/09/scotland-world-cup-guide/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Boston will play host to the bagpipes, the \"Tartan Army,\" and the relentlessness of Scott McTominay.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/09/scotland-world-cup-guide/\">An approachable World Cup guide: Scotland</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 09 Jun 2026 07:10:13 -0400"
+    },
     {
       "title": "Díaz hits leadoff homer and Aranda delivers go-ahead single to lift Rays over Red Sox 3-1",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/06/08/diaz-hits-leadoff-homer-and-aranda-delivers-go-ahead-single-to-lift-rays-over-red-sox-3-1/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-red-sox/2026/06/08/boston-red-sox-alex-cora-chad-tracy-mlb-baseball-fired-manager/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“We are a fraternity, I learned that at a young age, and you have to pay it forward.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/08/boston-red-sox-alex-cora-chad-tracy-mlb-baseball-fired-manager/\">Alex Cora still helping out Red Sox interim manager Chad Tracy</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 08 Jun 2026 20:00:30 -0400"
-    },
-    {
-      "title": "AirBnB donating more than 1,100 free World Cup tickets for Mass. youth, Healey announces",
-      "link": "https://www.boston.com/news/world-cup/2026/06/08/airbnb-donating-more-than-1100-free-world-cup-tickets-for-mass-youth-healey-announces/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“These tickets will help make sure that kids who otherwise may never have the opportunity to attend a match can experience the excitement of the world's biggest sporting event,” Healey said. </p>\n<p>The post <a href=\"https://www.boston.com/news/world-cup/2026/06/08/airbnb-donating-more-than-1100-free-world-cup-tickets-for-mass-youth-healey-announces/\">AirBnB donating more than 1,100 free World Cup tickets for Mass. youth, Healey announces</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 08 Jun 2026 19:35:11 -0400"
     }
   ]
 }
