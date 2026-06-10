@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-10T09:52:50.419Z",
+  "lastUpdated": "2026-06-10T12:53:39.571Z",
   "articles": [
+    {
+      "title": "An approachable World Cup guide: Norway",
+      "link": "https://www.boston.com/sports/world-cup/2026/06/10/an-approachable-world-cup-guide-norway/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Norway is sending a very tall and very talented team to the 2026 World Cup. Can they live up to to the hype?</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/10/an-approachable-world-cup-guide-norway/\">An approachable World Cup guide: Norway</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 10 Jun 2026 07:20:01 -0400"
+    },
     {
       "title": "Recent homes sales in Greater Boston (June 10)",
       "link": "https://www.boston.com/real-estate/latest-sales/2026/06/10/recent-homes-sales-in-greater-boston-june-10/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-red-sox/2026/06/09/boston-red-sox-trade-rumors-weei-buster-olney-mlb-baseball-ownership-breslow/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I talked to someone with another team that told me that it’s to the degree that the Red Sox ownership has gotten involved.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/06/09/boston-red-sox-trade-rumors-weei-buster-olney-mlb-baseball-ownership-breslow/\">Olney: Red Sox ownership has been ‘calling around’ on trades to help roster</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 09 Jun 2026 20:37:49 -0400"
-    },
-    {
-      "title": "5 takeaways from Day 1 of Patriots minicamp",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/06/09/patriots-minicamp-takeaways-day-1-drake-maye-analysis/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Drake Maye turned in a strong showing as the Patriots narrowed their focus to the red zone. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/06/09/patriots-minicamp-takeaways-day-1-drake-maye-analysis/\">5 takeaways from Day 1 of Patriots minicamp</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 09 Jun 2026 20:19:51 -0400"
     }
   ]
 }
