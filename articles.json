@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-23T21:44:31.398Z",
+  "lastUpdated": "2026-06-23T23:05:57.076Z",
   "articles": [
+    {
+      "title": "BPD asking for public&#8217;s help finding suspect in serious assault near Faneuil Hall",
+      "link": "https://www.boston.com/news/crime/2026/06/23/bpd-asking-for-publics-help-finding-suspect-in-serious-assault-near-faneuil-hall/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“The suspect is described as a black male wearing a white top, dark-colored pants, and brown shoes,\" Boston police said.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/06/23/bpd-asking-for-publics-help-finding-suspect-in-serious-assault-near-faneuil-hall/\">BPD asking for public&#8217;s help finding suspect in serious assault near Faneuil Hall</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 23 Jun 2026 17:48:32 -0400"
+    },
     {
       "title": "Lakeville man, 19, killed in Dorchester shooting",
       "link": "https://www.boston.com/news/local-news/2026/06/23/lakeville-man-19-killed-in-dorchester-shooting/",
@@ -38,9 +44,9 @@
       "pubDate": "Tue, 23 Jun 2026 15:47:41 -0400"
     },
     {
-      "title": "England vs. Ghana live updates: Three Lions arrive at &#8216;Boston Stadium&#8217; for World Cup matchup",
+      "title": "4 takeaways from England and Ghana&#8217;s 0-0 draw at the World Cup",
       "link": "https://www.boston.com/sports/world-cup/2026/06/23/england-ghana-world-cup-live-updates-boston/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Following along for live coverage from Boston Stadium of England and Ghana's World Cup matchup.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/23/england-ghana-world-cup-live-updates-boston/\">England vs. Ghana live updates: Three Lions arrive at &#8216;Boston Stadium&#8217; for World Cup matchup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>In the face of unrelenting English possession, Ghana’s back line was resolute.</p>\n<p>The post <a href=\"https://www.boston.com/sports/world-cup/2026/06/23/england-ghana-world-cup-live-updates-boston/\">4 takeaways from England and Ghana&#8217;s 0-0 draw at the World Cup</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 23 Jun 2026 15:25:22 -0400"
     },
     {
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/06/23/massachusetts-family-loses-four-members-in-dominican-republic-fire/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The victims were staying at an Airbnb when a fire broke out in the early morning hours of June 13.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/23/massachusetts-family-loses-four-members-in-dominican-republic-fire/\">Massachusetts family loses four members in Dominican Republic fire</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 23 Jun 2026 14:59:12 -0400"
-    },
-    {
-      "title": "One injured in stabbing near downtown Nantucket ferry terminal",
-      "link": "https://www.boston.com/news/crime/2026/06/23/one-injured-nantucket-stabbing/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Nantucket police have detained a person in connection with the incident. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/06/23/one-injured-nantucket-stabbing/\">One injured in stabbing near downtown Nantucket ferry terminal</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 23 Jun 2026 14:28:02 -0400"
     }
   ]
 }
