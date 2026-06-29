@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-06-29T00:04:57.326Z",
+  "lastUpdated": "2026-06-29T05:27:42.154Z",
   "articles": [
+    {
+      "title": "Motor coach bus catches on fire on I-95 in N.H.",
+      "link": "https://www.boston.com/news/local-news/2026/06/28/motor-coach-bus-catches-on-fire-on-i-95-in-n-h/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>All occupants exited the bus safely, fire officials said.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/28/motor-coach-bus-catches-on-fire-on-i-95-in-n-h/\">Motor coach bus catches on fire on I-95 in N.H.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sun, 28 Jun 2026 22:21:11 -0400"
+    },
     {
       "title": "Cambridge man who threw cat out of window sentenced for animal cruelty",
       "link": "https://www.boston.com/news/crime/2026/06/28/cambridge-man-who-threw-cat-out-of-window-sentenced-for-animal-cruelty/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/06/27/duck-boat-overturns-in-cambridge-injuring-11-people/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The amphibious tour vehicle flipped on Saturday while being towed from the Charles River after experiencing a mechanical issue on the water.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/06/27/duck-boat-overturns-in-cambridge-injuring-11-people/\">Duck boat overturns in Cambridge, injuring 11 people</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 27 Jun 2026 21:36:46 -0400"
-    },
-    {
-      "title": "Why JJ Peterka was worth the price of 2 1st-round picks for Bruins",
-      "link": "https://www.boston.com/sports/boston-bruins/2026/06/27/boston-bruins-jj-peterka-don-sweeney-utah-mammoth-nhl-hockey/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I think when I'm at [my] best, I can score — basically from everywhere.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/06/27/boston-bruins-jj-peterka-don-sweeney-utah-mammoth-nhl-hockey/\">Why JJ Peterka was worth the price of 2 1st-round picks for Bruins</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 27 Jun 2026 20:35:10 -0400"
     }
   ]
 }
