@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-04T21:55:32.894Z",
+  "lastUpdated": "2026-07-04T22:55:53.889Z",
   "articles": [
+    {
+      "title": "Is Caleb Durbin’s turnaround enough to solidify his future with the Red Sox?",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/07/04/mlb-red-sox-caleb-durbin-highlights/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Over the last 30 days, Durbin has the best OPS on the Red Sox.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/07/04/mlb-red-sox-caleb-durbin-highlights/\">Is Caleb Durbin’s turnaround enough to solidify his future with the Red Sox?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 04 Jul 2026 18:26:42 -0400"
+    },
     {
       "title": "Red Sox&#8217; Aroldis Chapman breaks MLB relief pitcher strikeout record in save vs. Angels",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/07/04/aroldis-chapman-relief-pitcher-strikeout-record-red-sox/",
@@ -53,12 +59,6 @@
       "title": "Union Oyster House turns 200: Inside America’s oldest continuously operating restaurant",
       "link": "https://www.boston.com/food/restaurants/2026/07/03/union-oyster-house-americas-oldest-restaurant/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>From Revolutionary War-era Boston to John F. Kennedy’s favorite booth, Union Oyster House has served oysters—and history—for 200 years.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/07/03/union-oyster-house-americas-oldest-restaurant/\">Union Oyster House turns 200: Inside America’s oldest continuously operating restaurant</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 03 Jul 2026 08:00:00 -0400"
-    },
-    {
-      "title": "Boston’s biggest summer events collide over the next 8 days. Buckle up.",
-      "link": "https://www.boston.com/news/local-news/2026/07/03/bostons-busiest-week/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>From the Pops fireworks to a World Cup quarterfinal and Sail Boston’s Parade of Sail, Boston is about to cram its biggest summer moments into an eight-day stretch.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/03/bostons-busiest-week/\">Boston’s biggest summer events collide over the next 8 days. Buckle up.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 03 Jul 2026 08:00:00 -0400"
     }
   ]
