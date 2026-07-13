@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-13T21:52:52.948Z",
+  "lastUpdated": "2026-07-13T22:52:47.675Z",
   "articles": [
+    {
+      "title": "Boston man dead after skydiving accident in Orange",
+      "link": "https://www.boston.com/news/local-news/2026/07/13/boston-man-dead-after-skydiving-accident-in-orange/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Sunday's fatality marks the second death at Jumptown Skydiving in the past year. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/13/boston-man-dead-after-skydiving-accident-in-orange/\">Boston man dead after skydiving accident in Orange</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Mon, 13 Jul 2026 17:53:22 -0400"
+    },
     {
       "title": "Lindsay Clancy back in court for final hearing before murder trial",
       "link": "https://www.boston.com/news/crime/2026/07/13/lindsay-clancy-final-pretrial-hearing/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/weather/local-news/2026/07/13/hot-humid-week-weather-outlook/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"Little relief overnight.\"</p>\n<p>The post <a href=\"https://www.boston.com/weather/local-news/2026/07/13/hot-humid-week-weather-outlook/\">Here&#8217;s how hot and humid it could get this week, according to Boston meteorologists</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 13 Jul 2026 12:15:02 -0400"
-    },
-    {
-      "title": "Red Sox used a 9th round pick in MLB Draft on an intriguing power-hitting prospect",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/07/13/red-sox-draft-martin-shelar-power-hitting-prospect/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"He’s an incredible athlete that has a chance to stick in center field and his performance speaks for itself not only in the summer circuit last year, but also what he did in his high school season.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/07/13/red-sox-draft-martin-shelar-power-hitting-prospect/\">Red Sox used a 9th round pick in MLB Draft on an intriguing power-hitting prospect</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 13 Jul 2026 11:30:04 -0400"
     }
   ]
 }
