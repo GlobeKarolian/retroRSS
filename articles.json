@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-17T02:27:14.180Z",
+  "lastUpdated": "2026-07-17T05:38:35.503Z",
   "articles": [
+    {
+      "title": "Decades-old weeping willow collapses in Boston Public Garden",
+      "link": "https://www.boston.com/news/local-news/2026/07/16/decades-old-weeping-willow-collapses-in-boston-public-garden/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The tree was estimated to be 68 years old. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/16/decades-old-weeping-willow-collapses-in-boston-public-garden/\">Decades-old weeping willow collapses in Boston Public Garden</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Thu, 16 Jul 2026 23:30:42 -0400"
+    },
     {
       "title": "These new speed boards in Jamaica Plain, on the Esplanade track cyclists&#8217; speeds, not just cars",
       "link": "https://www.boston.com/news/transportation/2026/07/16/these-new-speed-boards-in-jamaica-plain-on-the-esplanade-track-cyclists-speeds-not-just-cars/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/boston-celtics/2026/07/16/celtics-jaylen-brown-trade-jayson-tatum-weird-comments/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"You feel those emotions. The city feels those emotions,\" Tatum said.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-celtics/2026/07/16/celtics-jaylen-brown-trade-jayson-tatum-weird-comments/\">Jayson Tatum says it&#8217;s &#8216;weird&#8217; that Jaylen Brown is no longer a Celtic</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 16 Jul 2026 14:40:34 -0400"
-    },
-    {
-      "title": "How many first-round picks would Drake Maye be worth?",
-      "link": "https://www.boston.com/sports/new-england-patriots/2026/07/16/how-many-first-round-picks-would-drake-maye-be-worth/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>One ESPN writer said Maye would be worth at least six, so here's a look at notable QB trades from the past. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/07/16/how-many-first-round-picks-would-drake-maye-be-worth/\">How many first-round picks would Drake Maye be worth?</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 16 Jul 2026 13:25:19 -0400"
     }
   ]
 }
