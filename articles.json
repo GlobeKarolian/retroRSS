@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-19T15:54:05.605Z",
+  "lastUpdated": "2026-07-19T16:54:16.117Z",
   "articles": [
+    {
+      "title": "Police investigating after dead body found near home owned by Pressley’s husband",
+      "link": "https://www.boston.com/news/local-news/2026/07/19/police-investigating-after-dead-body-found-near-home-owned-by-pressleys-husband/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Few details have been released about what exactly happened near the home Saturday, but police are still investigating.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/19/police-investigating-after-dead-body-found-near-home-owned-by-pressleys-husband/\">Police investigating after dead body found near home owned by Pressley’s husband</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sun, 19 Jul 2026 11:01:09 -0400"
+    },
     {
       "title": "Healey aims to close great divide of resale ticket prices with new proposal",
       "link": "https://www.boston.com/culture/local-news/2026/07/19/healey-aims-to-close-great-divide-of-resale-ticket-prices-with-new-proposal/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/07/18/4-charged-in-connection-with-alleged-kidnapping-beating-near-nantucket-park/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A 28-year-old man was allegedly beaten and dragged to a nearby residence, where police say he was tied up with an extension cord and left injured and bleeding.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/18/4-charged-in-connection-with-alleged-kidnapping-beating-near-nantucket-park/\">4 charged in connection with alleged kidnapping, beating near Nantucket park</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Sat, 18 Jul 2026 08:29:30 -0400"
-    },
-    {
-      "title": "2 arrested at Logan Airport as ICE activity ramps up",
-      "link": "https://www.boston.com/news/local-news/2026/07/18/2-arrested-at-logan-airport-as-ice-activity-ramps-up/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>A Noah Kahan concertgoer and a Seattle DJ who was in Massachusetts to watch a World Cup game were arrested as they tried to board flights back home last week.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/18/2-arrested-at-logan-airport-as-ice-activity-ramps-up/\">2 arrested at Logan Airport as ICE activity ramps up</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Sat, 18 Jul 2026 08:12:39 -0400"
     }
   ]
 }
