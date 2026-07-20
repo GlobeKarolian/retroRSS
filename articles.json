@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-20T22:56:16.802Z",
+  "lastUpdated": "2026-07-20T23:55:35.535Z",
   "articles": [
+    {
+      "title": "Cyclist, 83, hit and killed by pickup truck on the Cape",
+      "link": "https://www.boston.com/news/local-news/2026/07/20/cyclist-83-hit-and-killed-by-truck-on-the-cape/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The victim, whose identity has not been released, died in the hospital. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/20/cyclist-83-hit-and-killed-by-truck-on-the-cape/\">Cyclist, 83, hit and killed by pickup truck on the Cape</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Mon, 20 Jul 2026 18:25:39 -0400"
+    },
     {
       "title": "Kevin Garnett says Celtics will regret the Jaylen Brown trade: &#8216;You don&#8217;t break a great thing up&#8217;",
       "link": "https://www.boston.com/sports/boston-celtics/2026/07/20/celtics-jaylen-brown-trade-kevin-garnett-comments/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/07/20/missing-man-elliott-blackwell-found-dead/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Authorities believe believe Elliott Blackwell, who had dementia, went missing while walking in the woods behind his home July 8. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/20/missing-man-elliott-blackwell-found-dead/\">Mass. man, 91, found dead 11 days after going missing</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 20 Jul 2026 11:59:23 -0400"
-    },
-    {
-      "title": "Robert Kraft was treated to an awkward Trump reference about the New England Revolution",
-      "link": "https://www.boston.com/sports/morning-sports-update/2026/07/20/robert-kraft-donald-trump-world-cup-revolution-patriots-reference/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"He's OK with that actually in this country.\"</p>\n<p>The post <a href=\"https://www.boston.com/sports/morning-sports-update/2026/07/20/robert-kraft-donald-trump-world-cup-revolution-patriots-reference/\">Robert Kraft was treated to an awkward Trump reference about the New England Revolution</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 20 Jul 2026 11:56:20 -0400"
     }
   ]
 }
