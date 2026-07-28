@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-07-28T13:57:28.659Z",
+  "lastUpdated": "2026-07-28T16:05:23.680Z",
   "articles": [
+    {
+      "title": "Boston Councilor Henry Santana discharged from hospital after extended stay",
+      "link": "https://www.boston.com/news/politics/2026/07/28/boston-councilor-henry-santana-discharged-from-hospital-after-extended-stay/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Santana, 30, received treatment at the Shapiro Cardiovascular Center in Brigham and Women's Hospital. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/07/28/boston-councilor-henry-santana-discharged-from-hospital-after-extended-stay/\">Boston Councilor Henry Santana discharged from hospital after extended stay</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 28 Jul 2026 09:57:02 -0400"
+    },
     {
       "title": "Man found dead in vehicle outside Mass. police station following SWAT team response",
       "link": "https://www.boston.com/news/local-news/2026/07/28/man-found-dead-in-vehicle-outside-mass-police-station-following-swat-team-response/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/07/27/patriots-training-camp-gabe-jacas-injury-update-takeaways-analysis/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The second-round pick is now under contract, but he has yet to make his training camp debut. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/07/27/patriots-training-camp-gabe-jacas-injury-update-takeaways-analysis/\">Gabe Jacas&#8217;s injury situation still looms large, and other Day 3 Patriots camp takeaways</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 27 Jul 2026 14:44:58 -0400"
-    },
-    {
-      "title": "Man charged with murder after allegedly intentionally striking scooter driver in Dorchester",
-      "link": "https://www.boston.com/news/crime/2026/07/27/man-charged-with-murder-after-allegedly-intentionally-striking-scooter-driver-in-dorchester/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"The victim’s scooter was taken from the scene by an unknown male and has yet to be recovered.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/07/27/man-charged-with-murder-after-allegedly-intentionally-striking-scooter-driver-in-dorchester/\">Man charged with murder after allegedly intentionally striking scooter driver in Dorchester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 27 Jul 2026 14:41:22 -0400"
     }
   ]
 }
