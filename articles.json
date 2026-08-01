@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-08-01T11:13:34.419Z",
+  "lastUpdated": "2026-08-01T13:11:34.397Z",
   "articles": [
+    {
+      "title": "Kevin Nealon discusses Conan, Dunkin’, SNL and more ahead of local shows",
+      "link": "https://www.boston.com/news/local-news/2026/08/01/kevin-nealon-discusses-conan-dunkin-snl-and-his-new-stand-up-special/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>In a hilarious interview, Nealon talks New England ties, hiking with Bill Burr, his Twitter and other funny things before stops in Boston and Portsmouth, New Hampshire.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/01/kevin-nealon-discusses-conan-dunkin-snl-and-his-new-stand-up-special/\">Kevin Nealon discusses Conan, Dunkin’, SNL and more ahead of local shows</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Sat, 01 Aug 2026 08:33:42 -0400"
+    },
     {
       "title": "Red Sox’ Willson Contreras leaves game after scary HBP vs. Dodgers",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/07/31/red-sox-willson-contreras-hit-by-pitch-dodgers/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/07/31/massachusetts-best-state-rankings-u-s-news-world-report-2026/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Massachusetts has fallen to No. 11 in U.S. News &amp; World Report's 2026 Best States rankings, dropping two spots from last year.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/07/31/massachusetts-best-state-rankings-u-s-news-world-report-2026/\">Massachusetts falls out of top 10 in best state rankings by U.S. News &amp; World Report</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 31 Jul 2026 16:35:17 -0400"
-    },
-    {
-      "title": "Massachusetts loses two IHOP restaurants",
-      "link": "https://www.boston.com/news/business/2026/07/31/massachusetts-loses-two-ihop-restaurants/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The all-day breakfast chain has closed its Cambridge and Hyannis locations, though about 20 restaurants remain open statewide.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/07/31/massachusetts-loses-two-ihop-restaurants/\">Massachusetts loses two IHOP restaurants</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 31 Jul 2026 15:59:18 -0400"
     }
   ]
 }
