@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-08-15T03:34:42.191Z",
+  "lastUpdated": "2026-08-15T04:25:26.414Z",
   "articles": [
+    {
+      "title": "Rob Parker revisits negative Red Sox prediction after stretch of losses",
+      "link": "https://www.boston.com/sports/boston-red-sox/2026/08/14/rob-parker-revisits-negative-red-sox-prediction-after-stretch-of-losses/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Boston has lost six of its last seven games. Parker is convinced its season is over.</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-red-sox/2026/08/14/rob-parker-revisits-negative-red-sox-prediction-after-stretch-of-losses/\">Rob Parker revisits negative Red Sox prediction after stretch of losses</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 14 Aug 2026 23:39:36 -0400"
+    },
     {
       "title": "A.J. Brown tried to get Drake Maye into Patriots preseason game vs. Colts",
       "link": "https://www.boston.com/sports/new-england-patriots/2026/08/14/nfl-patriots-preseason-drake-maye-aj-brown/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/food/restaurants/2026/08/14/anthony-bourdain-provincetown/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Before becoming a world renowned chef, TV host, and world traveler, Anthony Bourdain was washing dishes in Provincetown.</p>\n<p>The post <a href=\"https://www.boston.com/food/restaurants/2026/08/14/anthony-bourdain-provincetown/\">Anthony Bourdain&#8217;s Provincetown adventures, in his own words</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Fri, 14 Aug 2026 15:44:05 -0400"
-    },
-    {
-      "title": "Woman, girl injured in separate attacks by fox in Worcester",
-      "link": "https://www.boston.com/news/local-news/2026/08/14/woman-girl-injured-in-separate-attacks-by-fox-in-worcester/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Police said that both victims were treated at nearby hospitals and released. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/14/woman-girl-injured-in-separate-attacks-by-fox-in-worcester/\">Woman, girl injured in separate attacks by fox in Worcester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Fri, 14 Aug 2026 14:46:11 -0400"
     }
   ]
 }
