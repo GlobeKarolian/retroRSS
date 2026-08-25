@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-08-25T16:31:54.927Z",
+  "lastUpdated": "2026-08-25T17:27:23.749Z",
   "articles": [
+    {
+      "title": "Methuen resident sues city over pickleball noise",
+      "link": "https://www.boston.com/news/local-news/2026/08/25/methuen-resident-sues-city-over-pickleball-noise/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Multiple people who live near Methuen High School said in court documents that their quality of life has notably decreased since pickleball courts opened last year.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/25/methuen-resident-sues-city-over-pickleball-noise/\">Methuen resident sues city over pickleball noise</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 25 Aug 2026 13:18:35 -0400"
+    },
     {
       "title": "Report: Mass. biopharma is bouncing back. But the jobs haven’t yet.",
       "link": "https://www.boston.com/news/business/2026/08/25/report-mass-biopharma-is-bouncing-back-but-the-jobs-havent-yet/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/08/24/authorities-searching-for-driver-in-deadly-framingham-hit-and-run/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The victim was a 39-year-old man from Framingham, the DA said. </p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/24/authorities-searching-for-driver-in-deadly-framingham-hit-and-run/\">Authorities searching for driver in deadly Framingham hit-and-run</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 24 Aug 2026 22:45:07 -0400"
-    },
-    {
-      "title": "DA drops charges against protesters arrested at Burlington ICE facility",
-      "link": "https://www.boston.com/news/local-news/2026/08/24/da-drops-charges-against-protesters-arrested-at-burlington-ice-facility/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"The Commonwealth states that although the charges were appropriately brought, it has determined that it is in the interest of justice not to go forward with a criminal prosecution at this time.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/24/da-drops-charges-against-protesters-arrested-at-burlington-ice-facility/\">DA drops charges against protesters arrested at Burlington ICE facility</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 24 Aug 2026 21:59:05 -0400"
     }
   ]
 }
