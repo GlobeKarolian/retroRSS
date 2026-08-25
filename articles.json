@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-08-25T15:37:46.098Z",
+  "lastUpdated": "2026-08-25T16:31:54.927Z",
   "articles": [
+    {
+      "title": "Report: Mass. biopharma is bouncing back. But the jobs haven’t yet.",
+      "link": "https://www.boston.com/news/business/2026/08/25/report-mass-biopharma-is-bouncing-back-but-the-jobs-havent-yet/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Employment declined for the first time in more than two decades, according to a new report, as the industry navigates a prolonged downturn.</p>\n<p>The post <a href=\"https://www.boston.com/news/business/2026/08/25/report-mass-biopharma-is-bouncing-back-but-the-jobs-havent-yet/\">Report: Mass. biopharma is bouncing back. But the jobs haven’t yet.</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Tue, 25 Aug 2026 12:24:51 -0400"
+    },
     {
       "title": "Maine meteorologist explains what set off his viral on-air laughing fit",
       "link": "https://www.boston.com/news/media/2026/08/25/maine-weather-laughing-fit/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/08/24/da-drops-charges-against-protesters-arrested-at-burlington-ice-facility/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"The Commonwealth states that although the charges were appropriately brought, it has determined that it is in the interest of justice not to go forward with a criminal prosecution at this time.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/24/da-drops-charges-against-protesters-arrested-at-burlington-ice-facility/\">DA drops charges against protesters arrested at Burlington ICE facility</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Mon, 24 Aug 2026 21:59:05 -0400"
-    },
-    {
-      "title": "Sheriff Tompkins&#8217; federal extortion trial starts Monday",
-      "link": "https://www.boston.com/news/local-news/2026/08/24/sheriff-tompkins-federal-extortion-trial-starts-monday/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The Suffolk County sheriff, who has since gone on leave from his position, is accused of extorting an executive at a Boston cannabis company to own stock in the business.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/08/24/sheriff-tompkins-federal-extortion-trial-starts-monday/\">Sheriff Tompkins&#8217; federal extortion trial starts Monday</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Mon, 24 Aug 2026 20:48:27 -0400"
     }
   ]
 }
