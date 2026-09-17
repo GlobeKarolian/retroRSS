@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-09-17T03:15:51.353Z",
+  "lastUpdated": "2026-09-17T09:09:43.196Z",
   "articles": [
+    {
+      "title": "Person shot in Roxbury, 2 suspects apprehended, police say",
+      "link": "https://www.boston.com/news/local-news/2026/09/16/person-shot-in-roxbury/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The two suspects fled the scene on a scooter, but were later apprehended.</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/16/person-shot-in-roxbury/\">Person shot in Roxbury, 2 suspects apprehended, police say</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 16 Sep 2026 23:17:02 -0400"
+    },
     {
       "title": "Chad Tracy hints at Red Sox calling up Triple-A player with 60 steals for postseason",
       "link": "https://www.boston.com/sports/boston-red-sox/2026/09/16/boston-red-sox-playoffs-postseason-roster-steals-braiden-ward/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/09/16/birdnado-incoming-in-newburyport/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"When enough swallows show up at once, migration starts looking a lot like 'Twister'... the original... not the remake.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/09/16/birdnado-incoming-in-newburyport/\">&#8216;Birdnado incoming&#8217; in Newburyport</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 16 Sep 2026 16:36:48 -0400"
-    },
-    {
-      "title": "A family farm in Maine has the best corn maze and pumpkin patch in America, according to USA Today readers",
-      "link": "https://www.boston.com/travel/new-england-travel/2026/09/16/family-farm-in-maine-best-corn-maze-and-pumpkin-patch/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>This year's corn maze design commemorates the 250th anniversary of America.</p>\n<p>The post <a href=\"https://www.boston.com/travel/new-england-travel/2026/09/16/family-farm-in-maine-best-corn-maze-and-pumpkin-patch/\">A family farm in Maine has the best corn maze and pumpkin patch in America, according to USA Today readers</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 16 Sep 2026 16:11:19 -0400"
     }
   ]
 }
