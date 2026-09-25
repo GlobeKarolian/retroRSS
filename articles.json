@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-09-25T05:45:02.156Z",
+  "lastUpdated": "2026-09-25T11:03:31.346Z",
   "articles": [
+    {
+      "title": "Ballot Question 3: How Mass. could replace party primaries with a single, all-party primary",
+      "link": "https://www.boston.com/news/politics/2026/09/25/ballot-question-3-explained-all-party-primaries/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Supporters say a top-two primary would increase turnout and competition. Opponents say it harms democracy by curtailing the influence of third-party and independent candidates. </p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/09/25/ballot-question-3-explained-all-party-primaries/\">Ballot Question 3: How Mass. could replace party primaries with a single, all-party primary</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400"
+    },
     {
       "title": "Lowell, Methuen suspend use of Flock cameras",
       "link": "https://www.boston.com/news/local-news/2026/09/24/lowell-methuen-suspend-use-of-flock-cameras/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/09/24/patriots-injury-report-eli-raridon-status-jaguars-comments/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Raridon did not participate in Thursday's practice. It was a setback from Wednesday, when he was listed as a limited participant. </p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/09/24/patriots-injury-report-eli-raridon-status-jaguars-comments/\">Patriots rookie Eli Raridon&#8217;s status downgraded on latest injury report</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 24 Sep 2026 18:17:01 -0400"
-    },
-    {
-      "title": "Police: 4 teens charged in Lynn McDonald&#8217;s melee",
-      "link": "https://www.boston.com/news/crime/2026/09/24/police-4-teens-charged-in-lynn-mcdonalds-melee/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>They are facing multiple charges, including assault and battery with a dangerous weapon. </p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/09/24/police-4-teens-charged-in-lynn-mcdonalds-melee/\">Police: 4 teens charged in Lynn McDonald&#8217;s melee</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 24 Sep 2026 17:31:46 -0400"
     }
   ]
 }
