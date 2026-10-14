@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-10-14T05:45:38.934Z",
+  "lastUpdated": "2026-10-14T11:06:17.879Z",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Oct. 14)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/10/14/recent-homes-sales-in-greater-boston-oct-14/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>ABINGTON 90 Strawberry Lane. One-family Colonial, built in 1981, 2,396 square feet, 8 rooms, 4 bedrooms, 3 baths, on 20,019-square-foot lot. $918,500 137 Catherine Drive. One-family Colonial, built in 1973, 1,700 square feet, 7 rooms, 4 bedrooms, 2 baths, on 37,878-square-foot lot. $645,000 46 Orange St. One-family Cape Cod, built in 1952, 1,624 square feet, [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/10/14/recent-homes-sales-in-greater-boston-oct-14/\">Recent homes sales in Greater Boston (Oct. 14)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400"
+    },
     {
       "title": "Sen. Ed Markey and John Deaton square off in only debate before election",
       "link": "https://www.boston.com/news/politics/2026/10/13/ed-markey-john-deaton-senate-debate/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/local-news/2026/10/13/video-shows-ref-and-coach-fighting-at-youth-flag-football-game-in-revere/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“The worst part of that was, it shouldn't have happened in front of the kids. We have to set a better example.”</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/10/13/video-shows-ref-and-coach-fighting-at-youth-flag-football-game-in-revere/\">Video shows ref and coach fighting at youth flag football game in Revere</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 13 Oct 2026 16:14:40 -0400"
-    },
-    {
-      "title": "Massport breaks ground on remote airport terminal in Braintree",
-      "link": "https://www.boston.com/travel/local-news/2026/10/13/massport-breaks-ground-on-remote-airport-terminal-in-braintree/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The South Shore terminal builds on the success of a pilot program in Framingham.</p>\n<p>The post <a href=\"https://www.boston.com/travel/local-news/2026/10/13/massport-breaks-ground-on-remote-airport-terminal-in-braintree/\">Massport breaks ground on remote airport terminal in Braintree</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 13 Oct 2026 15:11:26 -0400"
     }
   ]
 }
