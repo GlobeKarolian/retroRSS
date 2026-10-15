@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-10-15T03:02:29.751Z",
+  "lastUpdated": "2026-10-15T08:47:51.840Z",
   "articles": [
+    {
+      "title": "City drops plan for extension of center-running bus lane on Columbus Avenue",
+      "link": "https://www.boston.com/news/transportation/2026/10/14/bus-columbus-ave-center-running/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The new curbside design is now scheduled to break ground in 2027.</p>\n<p>The post <a href=\"https://www.boston.com/news/transportation/2026/10/14/bus-columbus-ave-center-running/\">City drops plan for extension of center-running bus lane on Columbus Avenue</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 14 Oct 2026 23:33:29 -0400"
+    },
     {
       "title": "Kristaps Porzingis tries to clear the air on social media about mysterious illness",
       "link": "https://www.boston.com/sports/boston-celtics/2026/10/14/kristaps-porzingis-illness-health-update-social-media-x-golden-state-warriors-boston-celtics/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/crime/2026/10/14/1-killed-in-double-shooting-in-worcester/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The investigation into the Sunday shooting is ongoing.</p>\n<p>The post <a href=\"https://www.boston.com/news/crime/2026/10/14/1-killed-in-double-shooting-in-worcester/\">1 killed in double shooting in Worcester</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Wed, 14 Oct 2026 18:12:14 -0400"
-    },
-    {
-      "title": "Quincy police and fire unions make proposal for what to do with saints statues that prompted legal battle",
-      "link": "https://www.boston.com/news/local-news/2026/10/14/quincy-police-and-fire-unions-make-proposal-for-what-to-do-with-saints-statues-after-legal-battle/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"While litigation regarding the statues remains ongoing, the City is considering the proposal and intends to seek clarification from the court that on whether it may accept the unions’ proposal.\"</p>\n<p>The post <a href=\"https://www.boston.com/news/local-news/2026/10/14/quincy-police-and-fire-unions-make-proposal-for-what-to-do-with-saints-statues-after-legal-battle/\">Quincy police and fire unions make proposal for what to do with saints statues that prompted legal battle</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Wed, 14 Oct 2026 17:52:44 -0400"
     }
   ]
 }
