@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-10-28T03:50:57.114Z",
+  "lastUpdated": "2026-10-28T10:18:16.341Z",
   "articles": [
+    {
+      "title": "Recent homes sales in Greater Boston (Oct. 28)",
+      "link": "https://www.boston.com/real-estate/latest-sales/2026/10/28/recent-homes-sales-in-greater-boston-oct-28/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>276 Main St. #4C Condo. $308,000 ANDOVER 93 Abbot St. Two-family conventional, built in 1925, 4,090 square feet, 6 rooms, 3 bedrooms, 4 baths, on 24,655-square-foot lot. $1,350,000 ARLINGTON 18 Chandler St. #18 Condo/Apt, built in 1924, 1,285 square feet, 6 rooms, 2 bedrooms, 1 bath. $692,500 67 Broadway #1 Condo/Apt, built in 1909, 1,098 [&#8230;]</p>\n<p>The post <a href=\"https://www.boston.com/real-estate/latest-sales/2026/10/28/recent-homes-sales-in-greater-boston-oct-28/\">Recent homes sales in Greater Boston (Oct. 28)</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400"
+    },
     {
       "title": "Wu unveils plan to make it easier to open a restaurant in Boston",
       "link": "https://www.boston.com/news/local-news/2026/10/27/mayor-wu-makes-major-announcement-for-boston-restaurants/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/news/food-news/2026/10/27/rosebud-somerville-gives-up-restaurant-license/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>The restaurant in Davis Square, most recently serving American fare with Indian influences, has remained closed since May. </p>\n<p>The post <a href=\"https://www.boston.com/news/food-news/2026/10/27/rosebud-somerville-gives-up-restaurant-license/\">Rosebud surrenders restaurant license, opening door for new tenant at historic dining car</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Tue, 27 Oct 2026 14:31:58 -0400"
-    },
-    {
-      "title": "Judge dismisses suit against Belmont newspaper, but candidate’s legal battle isn’t over",
-      "link": "https://www.boston.com/news/politics/2026/10/27/belmont-voice-shiva-ayyadurai-lawsuit-dismissed-amended-complaint/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Shiva Ayyadurai, an independent candidate for U.S. Senate, filed an amended federal complaint against <em>The Belmont Voice</em> Monday<em>.</em></p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/10/27/belmont-voice-shiva-ayyadurai-lawsuit-dismissed-amended-complaint/\">Judge dismisses suit against Belmont newspaper, but candidate’s legal battle isn’t over</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Tue, 27 Oct 2026 14:27:54 -0400"
     }
   ]
 }
