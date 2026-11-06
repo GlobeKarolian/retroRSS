@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2026-11-06T03:05:19.658Z",
+  "lastUpdated": "2026-11-06T11:45:52.261Z",
   "articles": [
+    {
+      "title": "James Hagens exits Bruins win over Penguins with injury",
+      "link": "https://www.boston.com/sports/boston-bruins/2026/11/05/james-hagens-injury-boston-bruins-nhl-hockey-penguins/",
+      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>\"I didn’t have a chance to see him. Hopefully he will be OK.”</p>\n<p>The post <a href=\"https://www.boston.com/sports/boston-bruins/2026/11/05/james-hagens-injury-boston-bruins-nhl-hockey-penguins/\">James Hagens exits Bruins win over Penguins with injury</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
+      "pubDate": "Thu, 05 Nov 2026 22:43:31 -0500"
+    },
     {
       "title": "What Susan Collins had to say following her seismic defeat",
       "link": "https://www.boston.com/news/politics/2026/11/05/susan-collins-maine-senate-troy-jackson/",
@@ -54,12 +60,6 @@
       "link": "https://www.boston.com/sports/new-england-patriots/2026/11/05/bill-belichick-robert-kraft-advance-in-pro-football-hall-of-fame-class-of-2027-selection-process/",
       "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>Kraft and Belichick are among 15 candidates for this year's class.</p>\n<p>The post <a href=\"https://www.boston.com/sports/new-england-patriots/2026/11/05/bill-belichick-robert-kraft-advance-in-pro-football-hall-of-fame-class-of-2027-selection-process/\">Bill Belichick, Robert Kraft advance in Pro Football Hall of Fame Class of 2027 selection process</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
       "pubDate": "Thu, 05 Nov 2026 17:14:29 -0500"
-    },
-    {
-      "title": "Gronk denies ‘upsetting’ claim that he teamed up with Turning Point for Election Day appearances",
-      "link": "https://www.boston.com/news/politics/2026/11/05/gronk-denies-turning-point-usa-election-day/",
-      "description": "is used to specify article abstract. You can only provide plain text in this element. -->\n\t<description>\n\t\t<![CDATA[\n\t\t\t<p>“It’s disappointing to see an innocent moment stripped of context and turned into clickbait.”</p>\n<p>The post <a href=\"https://www.boston.com/news/politics/2026/11/05/gronk-denies-turning-point-usa-election-day/\">Gronk denies ‘upsetting’ claim that he teamed up with Turning Point for Election Day appearances</a> appeared first on <a href=\"https://www.boston.com\">Boston.com</a>.</p>\n\t\t]]>",
-      "pubDate": "Thu, 05 Nov 2026 16:31:35 -0500"
     }
   ]
 }
